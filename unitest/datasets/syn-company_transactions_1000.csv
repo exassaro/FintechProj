@@ -1,0 +1,1001 @@
+transaction_id,date,description,amount,vendor,raw_category
+TXN0001,09-12-2025,Awfis payment for rent business,42976.56,Awfis,Rent
+TXN0002,09-12-2025,Zomato payment for meals wait,33540.48,Zomato,Meals
+TXN0003,09-12-2025,Adobe payment for software because,4670.02,Adobe,Software
+TXN0004,09-12-2025,Airtel payment for utilities beautiful,23616.59,Airtel,Utilities
+TXN0005,09-12-2025,KSEB payment for utilities page,36346.58,KSEB,Utilities
+TXN0006,09-12-2025,Rapido payment for travel human,16261.78,Rapido,Travel
+TXN0007,09-12-2025,Awfis payment for rent idea,31173.46,Awfis,Rent
+TXN0008,09-12-2025,Swiggy payment for meals sit,24202.85,Swiggy,Meals
+TXN0009,09-12-2025,Azure payment for it services choice,42890.07,Azure,IT Services
+TXN0010,09-12-2025,Azure payment for it services wrong,17965.49,Azure,IT Services
+TXN0011,09-12-2025,Adobe payment for software they,17944.16,Adobe,Software
+TXN0012,09-12-2025,Staples payment for office supplies information,30198.03,Staples,Office Supplies
+TXN0013,09-12-2025,Dominos payment for meals energy,36976.24,Dominos,Meals
+TXN0014,09-12-2025,Figma payment for software wide,38367.02,Figma,Software
+TXN0015,09-12-2025,IndiQube payment for rent personal,8929.08,IndiQube,Rent
+TXN0016,09-12-2025,Ola payment for travel sort,1883.21,Ola,Travel
+TXN0017,09-12-2025,Rapido payment for travel personal,30773.23,Rapido,Travel
+TXN0018,09-12-2025,Google Cloud payment for it services study,4515.3,Google Cloud,IT Services
+TXN0019,09-12-2025,Google Cloud payment for it services strong,40884.61,Google Cloud,IT Services
+TXN0020,09-12-2025,Airtel payment for utilities onto,40732.72,Airtel,Utilities
+TXN0021,09-12-2025,Canva payment for software share,46688.53,Canva,Software
+TXN0022,09-12-2025,Canva payment for software red,3934.82,Canva,Software
+TXN0023,09-12-2025,Airtel payment for utilities forward,8978.14,Airtel,Utilities
+TXN0024,09-12-2025,Office Depot payment for office supplies likely,49760.26,Office Depot,Office Supplies
+TXN0025,09-12-2025,Uber payment for travel buy,40123.87,Uber,Travel
+TXN0026,09-12-2025,Google Cloud payment for it services sport,26279.44,Google Cloud,IT Services
+TXN0027,09-12-2025,Dominos payment for meals her,541.64,Dominos,Meals
+TXN0028,09-12-2025,Ola payment for travel pull,34967.11,Ola,Travel
+TXN0029,09-12-2025,Azure payment for it services season,42647.54,Azure,IT Services
+TXN0030,09-12-2025,IKEA payment for office supplies herself,40883.12,IKEA,Office Supplies
+TXN0031,09-12-2025,KSEB payment for utilities gun,16468.38,KSEB,Utilities
+TXN0032,09-12-2025,Swiggy payment for meals national,10031.02,Swiggy,Meals
+TXN0033,09-12-2025,Zomato payment for meals enter,23791.04,Zomato,Meals
+TXN0034,09-12-2025,IndiQube payment for rent actually,9875.28,IndiQube,Rent
+TXN0035,09-12-2025,Ola payment for travel break,34873.17,Ola,Travel
+TXN0036,09-12-2025,Zomato payment for meals law,16314.59,Zomato,Meals
+TXN0037,09-12-2025,IKEA payment for office supplies candidate,47490.11,IKEA,Office Supplies
+TXN0038,09-12-2025,IKEA payment for office supplies save,37229.13,IKEA,Office Supplies
+TXN0039,09-12-2025,Rapido payment for travel central,23516.24,Rapido,Travel
+TXN0040,09-12-2025,IKEA payment for office supplies project,43597.22,IKEA,Office Supplies
+TXN0041,09-12-2025,Awfis payment for rent pattern,12447.07,Awfis,Rent
+TXN0042,09-12-2025,Staples payment for office supplies music,19959.71,Staples,Office Supplies
+TXN0043,09-12-2025,IKEA payment for office supplies future,25579.48,IKEA,Office Supplies
+TXN0044,09-12-2025,Ola payment for travel I,744.96,Ola,Travel
+TXN0045,09-12-2025,Uber payment for travel yes,41273.24,Uber,Travel
+TXN0046,09-12-2025,IndiQube payment for rent rise,631.17,IndiQube,Rent
+TXN0047,09-12-2025,WeWork payment for rent close,12374.63,WeWork,Rent
+TXN0048,09-12-2025,Swiggy payment for meals first,18583.6,Swiggy,Meals
+TXN0049,09-12-2025,Rapido payment for travel just,38822.38,Rapido,Travel
+TXN0050,09-12-2025,Zomato payment for meals she,9021.95,Zomato,Meals
+TXN0051,09-12-2025,Canva payment for software body,41000.88,Canva,Software
+TXN0052,09-12-2025,Adobe payment for software low,25133.44,Adobe,Software
+TXN0053,09-12-2025,Rapido payment for travel option,10596.64,Rapido,Travel
+TXN0054,09-12-2025,IKEA payment for office supplies generation,25600.1,IKEA,Office Supplies
+TXN0055,09-12-2025,Swiggy payment for meals mission,48593.32,Swiggy,Meals
+TXN0056,09-12-2025,Rapido payment for travel instead,30562.19,Rapido,Travel
+TXN0057,09-12-2025,Awfis payment for rent control,47046.23,Awfis,Rent
+TXN0058,09-12-2025,WeWork payment for rent bill,5461.8,WeWork,Rent
+TXN0059,09-12-2025,Ola payment for travel when,37020.77,Ola,Travel
+TXN0060,09-12-2025,Google Cloud payment for it services yes,23459.96,Google Cloud,IT Services
+TXN0061,09-12-2025,JioFiber payment for utilities special,2150,JioFiber,Utilities
+TXN0062,09-12-2025,Office Depot payment for office supplies store,25114.62,Office Depot,Office Supplies
+TXN0063,09-12-2025,Dominos payment for meals me,19649.96,Dominos,Meals
+TXN0064,09-12-2025,Awfis payment for rent Mrs,35306.85,Awfis,Rent
+TXN0065,09-12-2025,Canva payment for software knowledge,48907,Canva,Software
+TXN0066,09-12-2025,Rapido payment for travel small,23875.3,Rapido,Travel
+TXN0067,09-12-2025,Ola payment for travel top,37792.92,Ola,Travel
+TXN0068,09-12-2025,IKEA payment for office supplies huge,6163.38,IKEA,Office Supplies
+TXN0069,09-12-2025,IKEA payment for office supplies Congress,29875.13,IKEA,Office Supplies
+TXN0070,09-12-2025,Adobe payment for software effort,37993.49,Adobe,Software
+TXN0071,09-12-2025,Dominos payment for meals view,37294.05,Dominos,Meals
+TXN0072,09-12-2025,Swiggy payment for meals film,4041.65,Swiggy,Meals
+TXN0073,09-12-2025,Staples payment for office supplies result,8309.58,Staples,Office Supplies
+TXN0074,09-12-2025,Azure payment for it services over,26848.05,Azure,IT Services
+TXN0075,09-12-2025,Ola payment for travel use,46532.62,Ola,Travel
+TXN0076,09-12-2025,Figma payment for software PM,7133.63,Figma,Software
+TXN0077,09-12-2025,AWS payment for it services away,40869.03,AWS,IT Services
+TXN0078,09-12-2025,Zomato payment for meals money,23772.26,Zomato,Meals
+TXN0079,09-12-2025,IKEA payment for office supplies drive,30051.78,IKEA,Office Supplies
+TXN0080,09-12-2025,Rapido payment for travel finish,23725.81,Rapido,Travel
+TXN0081,09-12-2025,Figma payment for software history,36467.69,Figma,Software
+TXN0082,09-12-2025,Google Cloud payment for it services popular,17243.8,Google Cloud,IT Services
+TXN0083,09-12-2025,Office Depot payment for office supplies language,5408.46,Office Depot,Office Supplies
+TXN0084,09-12-2025,Airtel payment for utilities radio,23050.78,Airtel,Utilities
+TXN0085,09-12-2025,Canva payment for software foot,26654.37,Canva,Software
+TXN0086,09-12-2025,Awfis payment for rent himself,2086.61,Awfis,Rent
+TXN0087,09-12-2025,Azure payment for it services lose,47389.84,Azure,IT Services
+TXN0088,09-12-2025,Airtel payment for utilities sure,4417.65,Airtel,Utilities
+TXN0089,09-12-2025,Canva payment for software recently,6872.08,Canva,Software
+TXN0090,09-12-2025,Staples payment for office supplies adult,30418.5,Staples,Office Supplies
+TXN0091,09-12-2025,Adobe payment for software strong,38113.22,Adobe,Software
+TXN0092,09-12-2025,Dominos payment for meals forward,43324.75,Dominos,Meals
+TXN0093,09-12-2025,Swiggy payment for meals also,26216.38,Swiggy,Meals
+TXN0094,09-12-2025,Canva payment for software rate,45928.48,Canva,Software
+TXN0095,09-12-2025,Dominos payment for meals thousand,44970.18,Dominos,Meals
+TXN0096,09-12-2025,Adobe payment for software test,4403.64,Adobe,Software
+TXN0097,09-12-2025,Dominos payment for meals if,19701.18,Dominos,Meals
+TXN0098,09-12-2025,Airtel payment for utilities however,46208.87,Airtel,Utilities
+TXN0099,09-12-2025,Zomato payment for meals might,33522.7,Zomato,Meals
+TXN0100,09-12-2025,Uber payment for travel free,5779.5,Uber,Travel
+TXN0101,09-12-2025,Zomato payment for meals they,3220.44,Zomato,Meals
+TXN0102,09-12-2025,Dominos payment for meals member,18332.03,Dominos,Meals
+TXN0103,09-12-2025,Office Depot payment for office supplies speak,47626.04,Office Depot,Office Supplies
+TXN0104,09-12-2025,Adobe payment for software building,32933.74,Adobe,Software
+TXN0105,09-12-2025,Dominos payment for meals camera,10807.96,Dominos,Meals
+TXN0106,09-12-2025,Awfis payment for rent gas,23421.05,Awfis,Rent
+TXN0107,09-12-2025,WeWork payment for rent against,35202.68,WeWork,Rent
+TXN0108,09-12-2025,KSEB payment for utilities enter,12517.63,KSEB,Utilities
+TXN0109,09-12-2025,Staples payment for office supplies upon,21890.3,Staples,Office Supplies
+TXN0110,09-12-2025,Ola payment for travel organization,16983.84,Ola,Travel
+TXN0111,09-12-2025,Office Depot payment for office supplies trial,29546.23,Office Depot,Office Supplies
+TXN0112,09-12-2025,WeWork payment for rent few,16585.97,WeWork,Rent
+TXN0113,09-12-2025,Adobe payment for software face,35582.62,Adobe,Software
+TXN0114,09-12-2025,IKEA payment for office supplies these,49808.25,IKEA,Office Supplies
+TXN0115,09-12-2025,Rapido payment for travel against,36474.91,Rapido,Travel
+TXN0116,09-12-2025,Uber payment for travel traditional,7490.07,Uber,Travel
+TXN0117,09-12-2025,Awfis payment for rent road,31798.63,Awfis,Rent
+TXN0118,09-12-2025,AWS payment for it services show,22820.63,AWS,IT Services
+TXN0119,09-12-2025,Azure payment for it services cell,30914.29,Azure,IT Services
+TXN0120,09-12-2025,Azure payment for it services happy,26849.91,Azure,IT Services
+TXN0121,09-12-2025,Uber payment for travel gun,13929.04,Uber,Travel
+TXN0122,09-12-2025,Airtel payment for utilities that,4658.84,Airtel,Utilities
+TXN0123,09-12-2025,Awfis payment for rent last,11800.02,Awfis,Rent
+TXN0124,09-12-2025,Rapido payment for travel talk,24100.98,Rapido,Travel
+TXN0125,09-12-2025,JioFiber payment for utilities stage,41211.15,JioFiber,Utilities
+TXN0126,09-12-2025,Swiggy payment for meals radio,17016.28,Swiggy,Meals
+TXN0127,09-12-2025,Uber payment for travel if,15066.14,Uber,Travel
+TXN0128,09-12-2025,JioFiber payment for utilities right,47061.5,JioFiber,Utilities
+TXN0129,09-12-2025,Rapido payment for travel hundred,46882.77,Rapido,Travel
+TXN0130,09-12-2025,Canva payment for software against,26619.03,Canva,Software
+TXN0131,09-12-2025,Zomato payment for meals since,24143.54,Zomato,Meals
+TXN0132,09-12-2025,Zomato payment for meals brother,33323.07,Zomato,Meals
+TXN0133,09-12-2025,AWS payment for it services me,46843.69,AWS,IT Services
+TXN0134,09-12-2025,Rapido payment for travel market,30473.59,Rapido,Travel
+TXN0135,09-12-2025,Google Cloud payment for it services attack,44495.44,Google Cloud,IT Services
+TXN0136,09-12-2025,Staples payment for office supplies teach,35261.22,Staples,Office Supplies
+TXN0137,09-12-2025,Airtel payment for utilities learn,48401.1,Airtel,Utilities
+TXN0138,09-12-2025,Dominos payment for meals manage,16033.95,Dominos,Meals
+TXN0139,09-12-2025,Google Cloud payment for it services manager,43492.41,Google Cloud,IT Services
+TXN0140,09-12-2025,Swiggy payment for meals ago,4095.82,Swiggy,Meals
+TXN0141,09-12-2025,Awfis payment for rent performance,30428.92,Awfis,Rent
+TXN0142,09-12-2025,KSEB payment for utilities ahead,40899.71,KSEB,Utilities
+TXN0143,09-12-2025,Uber payment for travel brother,39844.16,Uber,Travel
+TXN0144,09-12-2025,KSEB payment for utilities day,49716.44,KSEB,Utilities
+TXN0145,09-12-2025,Awfis payment for rent radio,2303.87,Awfis,Rent
+TXN0146,09-12-2025,Staples payment for office supplies eight,29375.08,Staples,Office Supplies
+TXN0147,09-12-2025,Google Cloud payment for it services raise,46880.74,Google Cloud,IT Services
+TXN0148,09-12-2025,Azure payment for it services oil,22364.96,Azure,IT Services
+TXN0149,09-12-2025,Dominos payment for meals pattern,27766.43,Dominos,Meals
+TXN0150,09-12-2025,Dominos payment for meals rather,18632.54,Dominos,Meals
+TXN0151,09-12-2025,Google Cloud payment for it services father,6060.25,Google Cloud,IT Services
+TXN0152,09-12-2025,Azure payment for it services on,30732.39,Azure,IT Services
+TXN0153,09-12-2025,Rapido payment for travel surface,12965.82,Rapido,Travel
+TXN0154,09-12-2025,WeWork payment for rent have,31131.1,WeWork,Rent
+TXN0155,09-12-2025,KSEB payment for utilities together,31057.09,KSEB,Utilities
+TXN0156,09-12-2025,KSEB payment for utilities girl,37871.98,KSEB,Utilities
+TXN0157,09-12-2025,Rapido payment for travel this,36098.63,Rapido,Travel
+TXN0158,09-12-2025,Rapido payment for travel admit,32484.7,Rapido,Travel
+TXN0159,09-12-2025,Zomato payment for meals me,42575.1,Zomato,Meals
+TXN0160,09-12-2025,Figma payment for software son,36991.96,Figma,Software
+TXN0161,09-12-2025,Dominos payment for meals note,1445.82,Dominos,Meals
+TXN0162,09-12-2025,WeWork payment for rent ground,41104.56,WeWork,Rent
+TXN0163,09-12-2025,Azure payment for it services his,37390.84,Azure,IT Services
+TXN0164,09-12-2025,Canva payment for software bank,29402.3,Canva,Software
+TXN0165,09-12-2025,KSEB payment for utilities sometimes,30208.58,KSEB,Utilities
+TXN0166,09-12-2025,Dominos payment for meals apply,16496.06,Dominos,Meals
+TXN0167,09-12-2025,AWS payment for it services modern,22464.75,AWS,IT Services
+TXN0168,09-12-2025,Dominos payment for meals true,14383.29,Dominos,Meals
+TXN0169,09-12-2025,IKEA payment for office supplies although,10556.44,IKEA,Office Supplies
+TXN0170,09-12-2025,Swiggy payment for meals opportunity,28318.55,Swiggy,Meals
+TXN0171,09-12-2025,Swiggy payment for meals coach,12101.97,Swiggy,Meals
+TXN0172,09-12-2025,WeWork payment for rent wear,15478.01,WeWork,Rent
+TXN0173,09-12-2025,Zomato payment for meals first,10170.15,Zomato,Meals
+TXN0174,09-12-2025,Figma payment for software if,43729.81,Figma,Software
+TXN0175,09-12-2025,KSEB payment for utilities enough,7112.77,KSEB,Utilities
+TXN0176,09-12-2025,Adobe payment for software glass,44477.77,Adobe,Software
+TXN0177,09-12-2025,AWS payment for it services lead,17565.6,AWS,IT Services
+TXN0178,09-12-2025,Zomato payment for meals offer,45349.1,Zomato,Meals
+TXN0179,09-12-2025,Staples payment for office supplies bag,48721.85,Staples,Office Supplies
+TXN0180,09-12-2025,Office Depot payment for office supplies some,27633.48,Office Depot,Office Supplies
+TXN0181,09-12-2025,Google Cloud payment for it services several,33791.19,Google Cloud,IT Services
+TXN0182,09-12-2025,Rapido payment for travel industry,39794,Rapido,Travel
+TXN0183,09-12-2025,Rapido payment for travel animal,17944.33,Rapido,Travel
+TXN0184,09-12-2025,Dominos payment for meals yard,22520.04,Dominos,Meals
+TXN0185,09-12-2025,Ola payment for travel air,34243.8,Ola,Travel
+TXN0186,09-12-2025,Figma payment for software money,45055.6,Figma,Software
+TXN0187,09-12-2025,Swiggy payment for meals buy,11628.19,Swiggy,Meals
+TXN0188,09-12-2025,Office Depot payment for office supplies own,41281.99,Office Depot,Office Supplies
+TXN0189,09-12-2025,Azure payment for it services exist,49530.22,Azure,IT Services
+TXN0190,09-12-2025,Swiggy payment for meals agreement,35450.19,Swiggy,Meals
+TXN0191,09-12-2025,Zomato payment for meals part,48295.33,Zomato,Meals
+TXN0192,09-12-2025,Awfis payment for rent election,31851.35,Awfis,Rent
+TXN0193,09-12-2025,Office Depot payment for office supplies ability,20050.45,Office Depot,Office Supplies
+TXN0194,09-12-2025,Staples payment for office supplies on,42911.64,Staples,Office Supplies
+TXN0195,09-12-2025,Staples payment for office supplies news,27523.95,Staples,Office Supplies
+TXN0196,09-12-2025,Ola payment for travel strong,20823.58,Ola,Travel
+TXN0197,09-12-2025,Rapido payment for travel maybe,13567.62,Rapido,Travel
+TXN0198,09-12-2025,Airtel payment for utilities main,12186.14,Airtel,Utilities
+TXN0199,09-12-2025,Dominos payment for meals fire,26971.17,Dominos,Meals
+TXN0200,09-12-2025,Swiggy payment for meals commercial,39593.52,Swiggy,Meals
+TXN0201,09-12-2025,Figma payment for software thank,6457.67,Figma,Software
+TXN0202,09-12-2025,IKEA payment for office supplies step,15064.08,IKEA,Office Supplies
+TXN0203,09-12-2025,JioFiber payment for utilities discussion,27721.56,JioFiber,Utilities
+TXN0204,09-12-2025,Awfis payment for rent always,36744.12,Awfis,Rent
+TXN0205,09-12-2025,AWS payment for it services country,7607.42,AWS,IT Services
+TXN0206,09-12-2025,Airtel payment for utilities sense,5867.44,Airtel,Utilities
+TXN0207,09-12-2025,Office Depot payment for office supplies exactly,31036.08,Office Depot,Office Supplies
+TXN0208,09-12-2025,Adobe payment for software price,45073.58,Adobe,Software
+TXN0209,09-12-2025,Dominos payment for meals page,13714.97,Dominos,Meals
+TXN0210,09-12-2025,AWS payment for it services travel,40812.09,AWS,IT Services
+TXN0211,09-12-2025,KSEB payment for utilities human,30743.56,KSEB,Utilities
+TXN0212,09-12-2025,Swiggy payment for meals campaign,40356.82,Swiggy,Meals
+TXN0213,09-12-2025,Adobe payment for software do,23011.43,Adobe,Software
+TXN0214,09-12-2025,IndiQube payment for rent product,10284.08,IndiQube,Rent
+TXN0215,09-12-2025,IndiQube payment for rent laugh,29498.01,IndiQube,Rent
+TXN0216,09-12-2025,Dominos payment for meals fact,18799.96,Dominos,Meals
+TXN0217,09-12-2025,JioFiber payment for utilities great,33859.06,JioFiber,Utilities
+TXN0218,09-12-2025,Canva payment for software role,15533.74,Canva,Software
+TXN0219,09-12-2025,Canva payment for software day,10593.83,Canva,Software
+TXN0220,09-12-2025,Zomato payment for meals around,4200.67,Zomato,Meals
+TXN0221,09-12-2025,Rapido payment for travel too,21990.92,Rapido,Travel
+TXN0222,09-12-2025,Airtel payment for utilities window,46350.45,Airtel,Utilities
+TXN0223,09-12-2025,KSEB payment for utilities answer,41029.46,KSEB,Utilities
+TXN0224,09-12-2025,Airtel payment for utilities argue,15390.81,Airtel,Utilities
+TXN0225,09-12-2025,Adobe payment for software star,23791.14,Adobe,Software
+TXN0226,09-12-2025,JioFiber payment for utilities half,33843.58,JioFiber,Utilities
+TXN0227,09-12-2025,Ola payment for travel Democrat,23350.28,Ola,Travel
+TXN0228,09-12-2025,Dominos payment for meals require,10088.38,Dominos,Meals
+TXN0229,09-12-2025,Figma payment for software read,28548.44,Figma,Software
+TXN0230,09-12-2025,Dominos payment for meals mother,6268.11,Dominos,Meals
+TXN0231,09-12-2025,Rapido payment for travel talk,15042.34,Rapido,Travel
+TXN0232,09-12-2025,Ola payment for travel technology,37356.33,Ola,Travel
+TXN0233,09-12-2025,Uber payment for travel easy,27635.35,Uber,Travel
+TXN0234,09-12-2025,WeWork payment for rent already,20096.44,WeWork,Rent
+TXN0235,09-12-2025,Office Depot payment for office supplies prevent,34366.85,Office Depot,Office Supplies
+TXN0236,09-12-2025,Uber payment for travel course,15497.54,Uber,Travel
+TXN0237,09-12-2025,Azure payment for it services sea,12295.78,Azure,IT Services
+TXN0238,09-12-2025,Canva payment for software leader,42267.56,Canva,Software
+TXN0239,09-12-2025,Office Depot payment for office supplies space,23690.62,Office Depot,Office Supplies
+TXN0240,09-12-2025,AWS payment for it services never,16112.18,AWS,IT Services
+TXN0241,09-12-2025,AWS payment for it services American,2759.84,AWS,IT Services
+TXN0242,09-12-2025,IndiQube payment for rent indicate,44890.64,IndiQube,Rent
+TXN0243,09-12-2025,Azure payment for it services front,49380.92,Azure,IT Services
+TXN0244,09-12-2025,AWS payment for it services I,35730.17,AWS,IT Services
+TXN0245,09-12-2025,Ola payment for travel better,39229.07,Ola,Travel
+TXN0246,09-12-2025,IKEA payment for office supplies cause,25299.78,IKEA,Office Supplies
+TXN0247,09-12-2025,Zomato payment for meals these,30259.39,Zomato,Meals
+TXN0248,09-12-2025,AWS payment for it services item,7473.62,AWS,IT Services
+TXN0249,09-12-2025,Uber payment for travel before,39877.35,Uber,Travel
+TXN0250,09-12-2025,Rapido payment for travel where,42710.62,Rapido,Travel
+TXN0251,09-12-2025,Azure payment for it services name,1092.7,Azure,IT Services
+TXN0252,09-12-2025,WeWork payment for rent wall,49216.92,WeWork,Rent
+TXN0253,09-12-2025,IndiQube payment for rent relationship,2387.43,IndiQube,Rent
+TXN0254,09-12-2025,Uber payment for travel kitchen,17353.3,Uber,Travel
+TXN0255,09-12-2025,Ola payment for travel present,12314.58,Ola,Travel
+TXN0256,09-12-2025,Google Cloud payment for it services prove,6534.36,Google Cloud,IT Services
+TXN0257,09-12-2025,Figma payment for software institution,40118.64,Figma,Software
+TXN0258,09-12-2025,Swiggy payment for meals move,22207.01,Swiggy,Meals
+TXN0259,09-12-2025,Figma payment for software Mr,9539.73,Figma,Software
+TXN0260,09-12-2025,Canva payment for software strategy,16709.83,Canva,Software
+TXN0261,09-12-2025,Dominos payment for meals campaign,30331.61,Dominos,Meals
+TXN0262,09-12-2025,KSEB payment for utilities million,21975.13,KSEB,Utilities
+TXN0263,09-12-2025,JioFiber payment for utilities respond,37704.85,JioFiber,Utilities
+TXN0264,09-12-2025,Swiggy payment for meals create,7369.3,Swiggy,Meals
+TXN0265,09-12-2025,Ola payment for travel wait,42074.8,Ola,Travel
+TXN0266,09-12-2025,Figma payment for software road,26455.1,Figma,Software
+TXN0267,09-12-2025,Ola payment for travel artist,16249.05,Ola,Travel
+TXN0268,09-12-2025,Office Depot payment for office supplies mouth,8713.15,Office Depot,Office Supplies
+TXN0269,09-12-2025,Azure payment for it services reach,39609.19,Azure,IT Services
+TXN0270,09-12-2025,Staples payment for office supplies water,40110.71,Staples,Office Supplies
+TXN0271,09-12-2025,Dominos payment for meals central,353.73,Dominos,Meals
+TXN0272,09-12-2025,Google Cloud payment for it services or,28900.91,Google Cloud,IT Services
+TXN0273,09-12-2025,Ola payment for travel sea,9895.9,Ola,Travel
+TXN0274,09-12-2025,JioFiber payment for utilities would,44847.19,JioFiber,Utilities
+TXN0275,09-12-2025,Uber payment for travel nation,10241.19,Uber,Travel
+TXN0276,09-12-2025,Uber payment for travel but,9115.97,Uber,Travel
+TXN0277,09-12-2025,Zomato payment for meals indeed,27001.13,Zomato,Meals
+TXN0278,09-12-2025,KSEB payment for utilities former,41692.47,KSEB,Utilities
+TXN0279,09-12-2025,AWS payment for it services site,14734.41,AWS,IT Services
+TXN0280,09-12-2025,AWS payment for it services future,49066.73,AWS,IT Services
+TXN0281,09-12-2025,Awfis payment for rent among,1787.21,Awfis,Rent
+TXN0282,09-12-2025,Zomato payment for meals see,14528.66,Zomato,Meals
+TXN0283,09-12-2025,Office Depot payment for office supplies safe,17346.23,Office Depot,Office Supplies
+TXN0284,09-12-2025,IndiQube payment for rent break,43705.48,IndiQube,Rent
+TXN0285,09-12-2025,IndiQube payment for rent write,28996.08,IndiQube,Rent
+TXN0286,09-12-2025,IKEA payment for office supplies truth,26715.39,IKEA,Office Supplies
+TXN0287,09-12-2025,AWS payment for it services strategy,24183.15,AWS,IT Services
+TXN0288,09-12-2025,IKEA payment for office supplies surface,2099.86,IKEA,Office Supplies
+TXN0289,09-12-2025,Rapido payment for travel us,39380,Rapido,Travel
+TXN0290,09-12-2025,Office Depot payment for office supplies indicate,16389.75,Office Depot,Office Supplies
+TXN0291,09-12-2025,Canva payment for software company,43623.35,Canva,Software
+TXN0292,09-12-2025,Staples payment for office supplies popular,12526.52,Staples,Office Supplies
+TXN0293,09-12-2025,Google Cloud payment for it services factor,46994,Google Cloud,IT Services
+TXN0294,09-12-2025,Swiggy payment for meals official,21099.17,Swiggy,Meals
+TXN0295,09-12-2025,Figma payment for software reality,3581.49,Figma,Software
+TXN0296,09-12-2025,KSEB payment for utilities nation,31411.04,KSEB,Utilities
+TXN0297,09-12-2025,AWS payment for it services daughter,10862.05,AWS,IT Services
+TXN0298,09-12-2025,JioFiber payment for utilities left,2905.04,JioFiber,Utilities
+TXN0299,09-12-2025,Adobe payment for software western,22699.82,Adobe,Software
+TXN0300,09-12-2025,JioFiber payment for utilities out,9962.6,JioFiber,Utilities
+TXN0301,09-12-2025,Office Depot payment for office supplies stock,36308.94,Office Depot,Office Supplies
+TXN0302,09-12-2025,Ola payment for travel rise,41542.25,Ola,Travel
+TXN0303,09-12-2025,IKEA payment for office supplies world,44572.13,IKEA,Office Supplies
+TXN0304,09-12-2025,WeWork payment for rent process,25654.15,WeWork,Rent
+TXN0305,09-12-2025,Office Depot payment for office supplies side,20064.32,Office Depot,Office Supplies
+TXN0306,09-12-2025,IKEA payment for office supplies goal,16165.55,IKEA,Office Supplies
+TXN0307,09-12-2025,Azure payment for it services thousand,11387.67,Azure,IT Services
+TXN0308,09-12-2025,WeWork payment for rent no,19858.21,WeWork,Rent
+TXN0309,09-12-2025,Dominos payment for meals beat,2414.17,Dominos,Meals
+TXN0310,09-12-2025,Rapido payment for travel offer,9077.14,Rapido,Travel
+TXN0311,09-12-2025,Zomato payment for meals perhaps,9813.47,Zomato,Meals
+TXN0312,09-12-2025,Zomato payment for meals image,21420.14,Zomato,Meals
+TXN0313,09-12-2025,Google Cloud payment for it services section,25163.35,Google Cloud,IT Services
+TXN0314,09-12-2025,Awfis payment for rent thing,10784.07,Awfis,Rent
+TXN0315,09-12-2025,WeWork payment for rent clear,26013.28,WeWork,Rent
+TXN0316,09-12-2025,KSEB payment for utilities note,44914.52,KSEB,Utilities
+TXN0317,09-12-2025,Rapido payment for travel chance,1133.52,Rapido,Travel
+TXN0318,09-12-2025,Canva payment for software test,13827.53,Canva,Software
+TXN0319,09-12-2025,Rapido payment for travel heavy,23172,Rapido,Travel
+TXN0320,09-12-2025,Azure payment for it services billion,28599.72,Azure,IT Services
+TXN0321,09-12-2025,Dominos payment for meals the,13035.31,Dominos,Meals
+TXN0322,09-12-2025,Figma payment for software tough,21640.69,Figma,Software
+TXN0323,09-12-2025,Google Cloud payment for it services movement,21879.9,Google Cloud,IT Services
+TXN0324,09-12-2025,KSEB payment for utilities least,24254.59,KSEB,Utilities
+TXN0325,09-12-2025,Rapido payment for travel discuss,8824.68,Rapido,Travel
+TXN0326,09-12-2025,IndiQube payment for rent same,25182.84,IndiQube,Rent
+TXN0327,09-12-2025,Figma payment for software company,393.04,Figma,Software
+TXN0328,09-12-2025,IKEA payment for office supplies together,41145.85,IKEA,Office Supplies
+TXN0329,09-12-2025,Figma payment for software able,40118.78,Figma,Software
+TXN0330,09-12-2025,KSEB payment for utilities cell,25340.04,KSEB,Utilities
+TXN0331,09-12-2025,JioFiber payment for utilities guess,34659.37,JioFiber,Utilities
+TXN0332,09-12-2025,Zomato payment for meals boy,10147.22,Zomato,Meals
+TXN0333,09-12-2025,Azure payment for it services current,1472,Azure,IT Services
+TXN0334,09-12-2025,Staples payment for office supplies agent,2987.08,Staples,Office Supplies
+TXN0335,09-12-2025,Staples payment for office supplies whole,47801.01,Staples,Office Supplies
+TXN0336,09-12-2025,Figma payment for software degree,39307.64,Figma,Software
+TXN0337,09-12-2025,Adobe payment for software anything,2475.94,Adobe,Software
+TXN0338,09-12-2025,Azure payment for it services follow,42228.61,Azure,IT Services
+TXN0339,09-12-2025,Zomato payment for meals action,41653.01,Zomato,Meals
+TXN0340,09-12-2025,Adobe payment for software necessary,24517.92,Adobe,Software
+TXN0341,09-12-2025,Ola payment for travel weight,14931.57,Ola,Travel
+TXN0342,09-12-2025,Zomato payment for meals political,19088.61,Zomato,Meals
+TXN0343,09-12-2025,IndiQube payment for rent close,19932.01,IndiQube,Rent
+TXN0344,09-12-2025,Figma payment for software never,16034.92,Figma,Software
+TXN0345,09-12-2025,Awfis payment for rent leader,33828.03,Awfis,Rent
+TXN0346,09-12-2025,Google Cloud payment for it services rate,11146.69,Google Cloud,IT Services
+TXN0347,09-12-2025,AWS payment for it services sure,34876.91,AWS,IT Services
+TXN0348,09-12-2025,Canva payment for software fund,12890.14,Canva,Software
+TXN0349,09-12-2025,Ola payment for travel hour,18673.41,Ola,Travel
+TXN0350,09-12-2025,Google Cloud payment for it services quite,33475.89,Google Cloud,IT Services
+TXN0351,09-12-2025,Google Cloud payment for it services store,39234.01,Google Cloud,IT Services
+TXN0352,09-12-2025,KSEB payment for utilities store,45217.2,KSEB,Utilities
+TXN0353,09-12-2025,Dominos payment for meals generation,2562.21,Dominos,Meals
+TXN0354,09-12-2025,KSEB payment for utilities watch,24599.05,KSEB,Utilities
+TXN0355,09-12-2025,Office Depot payment for office supplies sea,26012.74,Office Depot,Office Supplies
+TXN0356,09-12-2025,Awfis payment for rent itself,2679.87,Awfis,Rent
+TXN0357,09-12-2025,Awfis payment for rent model,44666.08,Awfis,Rent
+TXN0358,09-12-2025,Adobe payment for software theory,13828.7,Adobe,Software
+TXN0359,09-12-2025,Staples payment for office supplies general,15392.42,Staples,Office Supplies
+TXN0360,09-12-2025,Swiggy payment for meals detail,35485.29,Swiggy,Meals
+TXN0361,09-12-2025,AWS payment for it services member,25059.95,AWS,IT Services
+TXN0362,09-12-2025,Airtel payment for utilities image,43199.21,Airtel,Utilities
+TXN0363,09-12-2025,Google Cloud payment for it services threat,44188.04,Google Cloud,IT Services
+TXN0364,09-12-2025,Figma payment for software allow,675.17,Figma,Software
+TXN0365,09-12-2025,Google Cloud payment for it services poor,8771.49,Google Cloud,IT Services
+TXN0366,09-12-2025,Office Depot payment for office supplies that,3271.23,Office Depot,Office Supplies
+TXN0367,09-12-2025,Ola payment for travel nearly,42131.52,Ola,Travel
+TXN0368,09-12-2025,Canva payment for software will,49444.23,Canva,Software
+TXN0369,09-12-2025,JioFiber payment for utilities each,31037.22,JioFiber,Utilities
+TXN0370,09-12-2025,Rapido payment for travel two,30592.98,Rapido,Travel
+TXN0371,09-12-2025,WeWork payment for rent professor,6017.51,WeWork,Rent
+TXN0372,09-12-2025,IKEA payment for office supplies exist,31897.4,IKEA,Office Supplies
+TXN0373,09-12-2025,Adobe payment for software upon,1708.71,Adobe,Software
+TXN0374,09-12-2025,Dominos payment for meals indeed,37553.38,Dominos,Meals
+TXN0375,09-12-2025,Dominos payment for meals notice,21682.94,Dominos,Meals
+TXN0376,09-12-2025,Ola payment for travel partner,27484.21,Ola,Travel
+TXN0377,09-12-2025,Azure payment for it services institution,28989.9,Azure,IT Services
+TXN0378,09-12-2025,IKEA payment for office supplies Mrs,47573.56,IKEA,Office Supplies
+TXN0379,09-12-2025,Staples payment for office supplies now,12541.76,Staples,Office Supplies
+TXN0380,09-12-2025,Azure payment for it services understand,2641.74,Azure,IT Services
+TXN0381,09-12-2025,Zomato payment for meals item,18795.08,Zomato,Meals
+TXN0382,09-12-2025,Zomato payment for meals middle,47742.45,Zomato,Meals
+TXN0383,09-12-2025,Azure payment for it services each,40549.31,Azure,IT Services
+TXN0384,09-12-2025,Azure payment for it services per,2011.19,Azure,IT Services
+TXN0385,09-12-2025,Uber payment for travel two,9537.72,Uber,Travel
+TXN0386,09-12-2025,Google Cloud payment for it services place,19482.81,Google Cloud,IT Services
+TXN0387,09-12-2025,Zomato payment for meals at,37133.72,Zomato,Meals
+TXN0388,09-12-2025,Airtel payment for utilities better,33028.39,Airtel,Utilities
+TXN0389,09-12-2025,JioFiber payment for utilities dark,16859.68,JioFiber,Utilities
+TXN0390,09-12-2025,IndiQube payment for rent phone,42395.18,IndiQube,Rent
+TXN0391,09-12-2025,Airtel payment for utilities fill,16508.2,Airtel,Utilities
+TXN0392,09-12-2025,IndiQube payment for rent section,7182.85,IndiQube,Rent
+TXN0393,09-12-2025,WeWork payment for rent day,49844.43,WeWork,Rent
+TXN0394,09-12-2025,Office Depot payment for office supplies forget,18592.4,Office Depot,Office Supplies
+TXN0395,09-12-2025,Google Cloud payment for it services for,8629.05,Google Cloud,IT Services
+TXN0396,09-12-2025,Office Depot payment for office supplies beat,31867.63,Office Depot,Office Supplies
+TXN0397,09-12-2025,Uber payment for travel difficult,39487.84,Uber,Travel
+TXN0398,09-12-2025,Ola payment for travel because,4307.56,Ola,Travel
+TXN0399,09-12-2025,IndiQube payment for rent safe,15330.61,IndiQube,Rent
+TXN0400,09-12-2025,Dominos payment for meals about,20516.05,Dominos,Meals
+TXN0401,09-12-2025,AWS payment for it services process,15344.72,AWS,IT Services
+TXN0402,09-12-2025,Azure payment for it services always,12449.32,Azure,IT Services
+TXN0403,09-12-2025,Azure payment for it services as,40891.01,Azure,IT Services
+TXN0404,09-12-2025,Staples payment for office supplies himself,20811.35,Staples,Office Supplies
+TXN0405,09-12-2025,Dominos payment for meals beautiful,2465.67,Dominos,Meals
+TXN0406,09-12-2025,Swiggy payment for meals travel,20176.38,Swiggy,Meals
+TXN0407,09-12-2025,KSEB payment for utilities that,1514.46,KSEB,Utilities
+TXN0408,09-12-2025,WeWork payment for rent expert,12202.42,WeWork,Rent
+TXN0409,09-12-2025,Airtel payment for utilities control,10548.85,Airtel,Utilities
+TXN0410,09-12-2025,Airtel payment for utilities director,34086.42,Airtel,Utilities
+TXN0411,09-12-2025,Office Depot payment for office supplies and,31791.36,Office Depot,Office Supplies
+TXN0412,09-12-2025,IKEA payment for office supplies central,41049.54,IKEA,Office Supplies
+TXN0413,09-12-2025,Dominos payment for meals professional,42236.06,Dominos,Meals
+TXN0414,09-12-2025,Office Depot payment for office supplies red,3073.57,Office Depot,Office Supplies
+TXN0415,09-12-2025,Ola payment for travel admit,13583.26,Ola,Travel
+TXN0416,09-12-2025,Awfis payment for rent hand,37639.44,Awfis,Rent
+TXN0417,09-12-2025,AWS payment for it services ground,29074.22,AWS,IT Services
+TXN0418,09-12-2025,Office Depot payment for office supplies difficult,18206.28,Office Depot,Office Supplies
+TXN0419,09-12-2025,IKEA payment for office supplies entire,16268.92,IKEA,Office Supplies
+TXN0420,09-12-2025,KSEB payment for utilities goal,19550.86,KSEB,Utilities
+TXN0421,09-12-2025,WeWork payment for rent during,25314.39,WeWork,Rent
+TXN0422,09-12-2025,Adobe payment for software quality,190.61,Adobe,Software
+TXN0423,09-12-2025,Rapido payment for travel age,17984.1,Rapido,Travel
+TXN0424,09-12-2025,Staples payment for office supplies law,12255.67,Staples,Office Supplies
+TXN0425,09-12-2025,IndiQube payment for rent next,47561.55,IndiQube,Rent
+TXN0426,09-12-2025,Ola payment for travel wait,13940.4,Ola,Travel
+TXN0427,09-12-2025,Uber payment for travel well,18576.08,Uber,Travel
+TXN0428,09-12-2025,Uber payment for travel old,35269.49,Uber,Travel
+TXN0429,09-12-2025,IKEA payment for office supplies operation,29045.02,IKEA,Office Supplies
+TXN0430,09-12-2025,AWS payment for it services understand,8801.34,AWS,IT Services
+TXN0431,09-12-2025,AWS payment for it services power,12141.47,AWS,IT Services
+TXN0432,09-12-2025,JioFiber payment for utilities industry,49254.11,JioFiber,Utilities
+TXN0433,09-12-2025,Uber payment for travel billion,47104.87,Uber,Travel
+TXN0434,09-12-2025,Uber payment for travel several,45055.42,Uber,Travel
+TXN0435,09-12-2025,IKEA payment for office supplies course,24682.23,IKEA,Office Supplies
+TXN0436,09-12-2025,Ola payment for travel civil,6392.73,Ola,Travel
+TXN0437,09-12-2025,Zomato payment for meals fish,21529.67,Zomato,Meals
+TXN0438,09-12-2025,Staples payment for office supplies improve,29207.73,Staples,Office Supplies
+TXN0439,09-12-2025,Uber payment for travel former,7988.06,Uber,Travel
+TXN0440,09-12-2025,JioFiber payment for utilities although,42289.63,JioFiber,Utilities
+TXN0441,09-12-2025,Awfis payment for rent speech,17674.1,Awfis,Rent
+TXN0442,09-12-2025,Airtel payment for utilities worry,43713.98,Airtel,Utilities
+TXN0443,09-12-2025,KSEB payment for utilities phone,35765.15,KSEB,Utilities
+TXN0444,09-12-2025,IndiQube payment for rent article,32339.82,IndiQube,Rent
+TXN0445,09-12-2025,Swiggy payment for meals policy,33289.62,Swiggy,Meals
+TXN0446,09-12-2025,Airtel payment for utilities cup,34853.35,Airtel,Utilities
+TXN0447,09-12-2025,IKEA payment for office supplies most,13426.17,IKEA,Office Supplies
+TXN0448,09-12-2025,Staples payment for office supplies evening,48914.57,Staples,Office Supplies
+TXN0449,09-12-2025,Staples payment for office supplies trial,7654.56,Staples,Office Supplies
+TXN0450,09-12-2025,Office Depot payment for office supplies condition,44063.11,Office Depot,Office Supplies
+TXN0451,09-12-2025,Zomato payment for meals point,16496.72,Zomato,Meals
+TXN0452,09-12-2025,Awfis payment for rent prevent,10637.36,Awfis,Rent
+TXN0453,09-12-2025,Rapido payment for travel go,43919.74,Rapido,Travel
+TXN0454,09-12-2025,IKEA payment for office supplies writer,35450.77,IKEA,Office Supplies
+TXN0455,09-12-2025,Google Cloud payment for it services field,33472.95,Google Cloud,IT Services
+TXN0456,09-12-2025,Rapido payment for travel computer,1049.08,Rapido,Travel
+TXN0457,09-12-2025,Figma payment for software picture,26287.78,Figma,Software
+TXN0458,09-12-2025,Ola payment for travel effort,24994.77,Ola,Travel
+TXN0459,09-12-2025,JioFiber payment for utilities home,19955.7,JioFiber,Utilities
+TXN0460,09-12-2025,Ola payment for travel and,28003.6,Ola,Travel
+TXN0461,09-12-2025,Office Depot payment for office supplies meet,16654.58,Office Depot,Office Supplies
+TXN0462,09-12-2025,Airtel payment for utilities organization,26473.82,Airtel,Utilities
+TXN0463,09-12-2025,Dominos payment for meals former,22151.75,Dominos,Meals
+TXN0464,09-12-2025,Office Depot payment for office supplies training,1161.11,Office Depot,Office Supplies
+TXN0465,09-12-2025,Staples payment for office supplies smile,39365.96,Staples,Office Supplies
+TXN0466,09-12-2025,IKEA payment for office supplies support,12946.97,IKEA,Office Supplies
+TXN0467,09-12-2025,Azure payment for it services management,2706.96,Azure,IT Services
+TXN0468,09-12-2025,Adobe payment for software party,49634.82,Adobe,Software
+TXN0469,09-12-2025,Airtel payment for utilities entire,42138.08,Airtel,Utilities
+TXN0470,09-12-2025,Office Depot payment for office supplies sit,39113.42,Office Depot,Office Supplies
+TXN0471,09-12-2025,IndiQube payment for rent not,32808.79,IndiQube,Rent
+TXN0472,09-12-2025,IKEA payment for office supplies expert,15343.1,IKEA,Office Supplies
+TXN0473,09-12-2025,Dominos payment for meals skill,4241.16,Dominos,Meals
+TXN0474,09-12-2025,Swiggy payment for meals study,2185.05,Swiggy,Meals
+TXN0475,09-12-2025,JioFiber payment for utilities east,24823.01,JioFiber,Utilities
+TXN0476,09-12-2025,Staples payment for office supplies reach,7494.53,Staples,Office Supplies
+TXN0477,09-12-2025,IKEA payment for office supplies story,49370.75,IKEA,Office Supplies
+TXN0478,09-12-2025,KSEB payment for utilities weight,47512.6,KSEB,Utilities
+TXN0479,09-12-2025,Rapido payment for travel detail,14837.72,Rapido,Travel
+TXN0480,09-12-2025,Airtel payment for utilities field,34913.07,Airtel,Utilities
+TXN0481,09-12-2025,IKEA payment for office supplies reveal,26202.07,IKEA,Office Supplies
+TXN0482,09-12-2025,Adobe payment for software any,6548.06,Adobe,Software
+TXN0483,09-12-2025,Dominos payment for meals morning,11444.07,Dominos,Meals
+TXN0484,09-12-2025,Canva payment for software stand,30585.72,Canva,Software
+TXN0485,09-12-2025,Dominos payment for meals little,25992.22,Dominos,Meals
+TXN0486,09-12-2025,Uber payment for travel wish,5290.18,Uber,Travel
+TXN0487,09-12-2025,AWS payment for it services interview,41264.27,AWS,IT Services
+TXN0488,09-12-2025,Azure payment for it services American,16615.18,Azure,IT Services
+TXN0489,09-12-2025,KSEB payment for utilities himself,6777.13,KSEB,Utilities
+TXN0490,09-12-2025,Azure payment for it services cold,28651.02,Azure,IT Services
+TXN0491,09-12-2025,Staples payment for office supplies study,480.39,Staples,Office Supplies
+TXN0492,09-12-2025,Zomato payment for meals happen,32690.97,Zomato,Meals
+TXN0493,09-12-2025,Airtel payment for utilities political,18271.41,Airtel,Utilities
+TXN0494,09-12-2025,Staples payment for office supplies face,42136.42,Staples,Office Supplies
+TXN0495,09-12-2025,Airtel payment for utilities health,30005.44,Airtel,Utilities
+TXN0496,09-12-2025,JioFiber payment for utilities where,24098.38,JioFiber,Utilities
+TXN0497,09-12-2025,Uber payment for travel experience,3257.43,Uber,Travel
+TXN0498,09-12-2025,Rapido payment for travel south,31860.67,Rapido,Travel
+TXN0499,09-12-2025,Azure payment for it services TV,3937.67,Azure,IT Services
+TXN0500,09-12-2025,AWS payment for it services risk,22028.49,AWS,IT Services
+TXN0501,09-12-2025,IndiQube payment for rent experience,20525.2,IndiQube,Rent
+TXN0502,09-12-2025,WeWork payment for rent assume,47724.53,WeWork,Rent
+TXN0503,09-12-2025,Google Cloud payment for it services well,32061.41,Google Cloud,IT Services
+TXN0504,09-12-2025,Swiggy payment for meals interest,38526.83,Swiggy,Meals
+TXN0505,09-12-2025,Adobe payment for software player,49520.79,Adobe,Software
+TXN0506,09-12-2025,Swiggy payment for meals military,18229.7,Swiggy,Meals
+TXN0507,09-12-2025,WeWork payment for rent get,36715.67,WeWork,Rent
+TXN0508,09-12-2025,Rapido payment for travel section,35157.89,Rapido,Travel
+TXN0509,09-12-2025,JioFiber payment for utilities dinner,10175.19,JioFiber,Utilities
+TXN0510,09-12-2025,Adobe payment for software even,41882.4,Adobe,Software
+TXN0511,09-12-2025,KSEB payment for utilities fine,12193.8,KSEB,Utilities
+TXN0512,09-12-2025,Dominos payment for meals suddenly,20883.47,Dominos,Meals
+TXN0513,09-12-2025,Canva payment for software election,24829.68,Canva,Software
+TXN0514,09-12-2025,Airtel payment for utilities nor,23573.52,Airtel,Utilities
+TXN0515,09-12-2025,Azure payment for it services stuff,27011.43,Azure,IT Services
+TXN0516,09-12-2025,Azure payment for it services prevent,45141.54,Azure,IT Services
+TXN0517,09-12-2025,Ola payment for travel wait,17514.8,Ola,Travel
+TXN0518,09-12-2025,Canva payment for software body,28708.76,Canva,Software
+TXN0519,09-12-2025,Staples payment for office supplies example,38346.42,Staples,Office Supplies
+TXN0520,09-12-2025,KSEB payment for utilities reach,45027.26,KSEB,Utilities
+TXN0521,09-12-2025,Azure payment for it services civil,40607.42,Azure,IT Services
+TXN0522,09-12-2025,JioFiber payment for utilities can,4034.88,JioFiber,Utilities
+TXN0523,09-12-2025,Airtel payment for utilities it,16690.58,Airtel,Utilities
+TXN0524,09-12-2025,Ola payment for travel poor,31606.18,Ola,Travel
+TXN0525,09-12-2025,Adobe payment for software audience,6065.09,Adobe,Software
+TXN0526,09-12-2025,Canva payment for software speech,362.92,Canva,Software
+TXN0527,09-12-2025,AWS payment for it services team,15988.61,AWS,IT Services
+TXN0528,09-12-2025,Google Cloud payment for it services face,25390.46,Google Cloud,IT Services
+TXN0529,09-12-2025,Office Depot payment for office supplies lay,19995.95,Office Depot,Office Supplies
+TXN0530,09-12-2025,Azure payment for it services day,46298.83,Azure,IT Services
+TXN0531,09-12-2025,Dominos payment for meals set,25411.09,Dominos,Meals
+TXN0532,09-12-2025,Figma payment for software after,29276.52,Figma,Software
+TXN0533,09-12-2025,Rapido payment for travel short,27323.05,Rapido,Travel
+TXN0534,09-12-2025,Swiggy payment for meals ever,33251.24,Swiggy,Meals
+TXN0535,09-12-2025,Swiggy payment for meals technology,39290.43,Swiggy,Meals
+TXN0536,09-12-2025,Office Depot payment for office supplies exist,35904.46,Office Depot,Office Supplies
+TXN0537,09-12-2025,Google Cloud payment for it services glass,43689.51,Google Cloud,IT Services
+TXN0538,09-12-2025,Awfis payment for rent culture,20297.75,Awfis,Rent
+TXN0539,09-12-2025,Rapido payment for travel station,227.67,Rapido,Travel
+TXN0540,09-12-2025,JioFiber payment for utilities seat,49600.13,JioFiber,Utilities
+TXN0541,09-12-2025,Staples payment for office supplies my,35585.42,Staples,Office Supplies
+TXN0542,09-12-2025,Figma payment for software cause,5236.7,Figma,Software
+TXN0543,09-12-2025,Airtel payment for utilities use,244.36,Airtel,Utilities
+TXN0544,09-12-2025,JioFiber payment for utilities stop,2344.66,JioFiber,Utilities
+TXN0545,09-12-2025,Office Depot payment for office supplies practice,694.27,Office Depot,Office Supplies
+TXN0546,09-12-2025,Canva payment for software sell,19740.1,Canva,Software
+TXN0547,09-12-2025,Office Depot payment for office supplies type,29049.74,Office Depot,Office Supplies
+TXN0548,09-12-2025,Figma payment for software fly,1087.22,Figma,Software
+TXN0549,09-12-2025,WeWork payment for rent wonder,35897.98,WeWork,Rent
+TXN0550,09-12-2025,JioFiber payment for utilities medical,15075.27,JioFiber,Utilities
+TXN0551,09-12-2025,Awfis payment for rent dog,32963.37,Awfis,Rent
+TXN0552,09-12-2025,Airtel payment for utilities concern,49730.75,Airtel,Utilities
+TXN0553,09-12-2025,Uber payment for travel value,43254.6,Uber,Travel
+TXN0554,09-12-2025,IndiQube payment for rent benefit,48942.44,IndiQube,Rent
+TXN0555,09-12-2025,Swiggy payment for meals individual,32839.96,Swiggy,Meals
+TXN0556,09-12-2025,Dominos payment for meals increase,8238.29,Dominos,Meals
+TXN0557,09-12-2025,JioFiber payment for utilities any,41514.7,JioFiber,Utilities
+TXN0558,09-12-2025,Dominos payment for meals collection,49162.55,Dominos,Meals
+TXN0559,09-12-2025,Google Cloud payment for it services good,429.96,Google Cloud,IT Services
+TXN0560,09-12-2025,IndiQube payment for rent try,18927.06,IndiQube,Rent
+TXN0561,09-12-2025,IndiQube payment for rent big,45369.47,IndiQube,Rent
+TXN0562,09-12-2025,Staples payment for office supplies bit,41515.59,Staples,Office Supplies
+TXN0563,09-12-2025,JioFiber payment for utilities argue,43393.01,JioFiber,Utilities
+TXN0564,09-12-2025,Figma payment for software head,47210.73,Figma,Software
+TXN0565,09-12-2025,Office Depot payment for office supplies three,42778.11,Office Depot,Office Supplies
+TXN0566,09-12-2025,Figma payment for software new,37186.43,Figma,Software
+TXN0567,09-12-2025,IKEA payment for office supplies single,38886.17,IKEA,Office Supplies
+TXN0568,09-12-2025,Airtel payment for utilities anyone,20700.91,Airtel,Utilities
+TXN0569,09-12-2025,Swiggy payment for meals save,36763.73,Swiggy,Meals
+TXN0570,09-12-2025,Swiggy payment for meals form,48771.92,Swiggy,Meals
+TXN0571,09-12-2025,Google Cloud payment for it services economy,10737.41,Google Cloud,IT Services
+TXN0572,09-12-2025,Office Depot payment for office supplies discuss,37244.23,Office Depot,Office Supplies
+TXN0573,09-12-2025,Canva payment for software close,8914.6,Canva,Software
+TXN0574,09-12-2025,Ola payment for travel in,14087.17,Ola,Travel
+TXN0575,09-12-2025,AWS payment for it services single,14610.94,AWS,IT Services
+TXN0576,09-12-2025,IKEA payment for office supplies paper,35504.81,IKEA,Office Supplies
+TXN0577,09-12-2025,Zomato payment for meals nearly,26249.38,Zomato,Meals
+TXN0578,09-12-2025,WeWork payment for rent east,7328.28,WeWork,Rent
+TXN0579,09-12-2025,Staples payment for office supplies newspaper,32990.29,Staples,Office Supplies
+TXN0580,09-12-2025,Swiggy payment for meals research,24801.28,Swiggy,Meals
+TXN0581,09-12-2025,Airtel payment for utilities executive,12985.21,Airtel,Utilities
+TXN0582,09-12-2025,Rapido payment for travel effort,16539.55,Rapido,Travel
+TXN0583,09-12-2025,Staples payment for office supplies animal,38035.71,Staples,Office Supplies
+TXN0584,09-12-2025,Swiggy payment for meals player,18709.36,Swiggy,Meals
+TXN0585,09-12-2025,Zomato payment for meals every,16694.99,Zomato,Meals
+TXN0586,09-12-2025,Staples payment for office supplies music,23319.52,Staples,Office Supplies
+TXN0587,09-12-2025,Azure payment for it services less,10486.66,Azure,IT Services
+TXN0588,09-12-2025,WeWork payment for rent road,20993.81,WeWork,Rent
+TXN0589,09-12-2025,Azure payment for it services anything,18915.43,Azure,IT Services
+TXN0590,09-12-2025,Airtel payment for utilities imagine,13832.01,Airtel,Utilities
+TXN0591,09-12-2025,Office Depot payment for office supplies shoulder,19459.81,Office Depot,Office Supplies
+TXN0592,09-12-2025,KSEB payment for utilities worker,8453.92,KSEB,Utilities
+TXN0593,09-12-2025,Airtel payment for utilities technology,47796.5,Airtel,Utilities
+TXN0594,09-12-2025,Azure payment for it services smile,40882.22,Azure,IT Services
+TXN0595,09-12-2025,Dominos payment for meals indicate,15370.09,Dominos,Meals
+TXN0596,09-12-2025,Canva payment for software animal,32079.04,Canva,Software
+TXN0597,09-12-2025,Figma payment for software whom,18174.76,Figma,Software
+TXN0598,09-12-2025,Swiggy payment for meals thousand,41568.85,Swiggy,Meals
+TXN0599,09-12-2025,Azure payment for it services radio,17689.04,Azure,IT Services
+TXN0600,09-12-2025,JioFiber payment for utilities song,26029.72,JioFiber,Utilities
+TXN0601,09-12-2025,Staples payment for office supplies to,27566.15,Staples,Office Supplies
+TXN0602,09-12-2025,Uber payment for travel street,24500.97,Uber,Travel
+TXN0603,09-12-2025,Office Depot payment for office supplies close,8750.63,Office Depot,Office Supplies
+TXN0604,09-12-2025,Adobe payment for software hand,41588.73,Adobe,Software
+TXN0605,09-12-2025,KSEB payment for utilities wrong,36290.78,KSEB,Utilities
+TXN0606,09-12-2025,Adobe payment for software important,44693.76,Adobe,Software
+TXN0607,09-12-2025,Dominos payment for meals price,45427.33,Dominos,Meals
+TXN0608,09-12-2025,Figma payment for software certainly,14907.25,Figma,Software
+TXN0609,09-12-2025,Google Cloud payment for it services find,28460.95,Google Cloud,IT Services
+TXN0610,09-12-2025,AWS payment for it services sometimes,9710.96,AWS,IT Services
+TXN0611,09-12-2025,Figma payment for software perform,244.75,Figma,Software
+TXN0612,09-12-2025,Adobe payment for software listen,1370.09,Adobe,Software
+TXN0613,09-12-2025,Awfis payment for rent group,1209.68,Awfis,Rent
+TXN0614,09-12-2025,Canva payment for software bring,37578.89,Canva,Software
+TXN0615,09-12-2025,Ola payment for travel rich,44993.53,Ola,Travel
+TXN0616,09-12-2025,Office Depot payment for office supplies key,3959.97,Office Depot,Office Supplies
+TXN0617,09-12-2025,IndiQube payment for rent card,29470.44,IndiQube,Rent
+TXN0618,09-12-2025,Office Depot payment for office supplies spring,22442.56,Office Depot,Office Supplies
+TXN0619,09-12-2025,WeWork payment for rent name,29131.71,WeWork,Rent
+TXN0620,09-12-2025,JioFiber payment for utilities must,4104.26,JioFiber,Utilities
+TXN0621,09-12-2025,Staples payment for office supplies you,21172,Staples,Office Supplies
+TXN0622,09-12-2025,WeWork payment for rent court,35268.44,WeWork,Rent
+TXN0623,09-12-2025,Awfis payment for rent them,44583.28,Awfis,Rent
+TXN0624,09-12-2025,Zomato payment for meals dark,11069.33,Zomato,Meals
+TXN0625,09-12-2025,IKEA payment for office supplies social,29712.21,IKEA,Office Supplies
+TXN0626,09-12-2025,Uber payment for travel whatever,34543.5,Uber,Travel
+TXN0627,09-12-2025,Adobe payment for software letter,476.73,Adobe,Software
+TXN0628,09-12-2025,Swiggy payment for meals pull,41930.39,Swiggy,Meals
+TXN0629,09-12-2025,Rapido payment for travel item,33593.05,Rapido,Travel
+TXN0630,09-12-2025,Office Depot payment for office supplies example,28931.79,Office Depot,Office Supplies
+TXN0631,09-12-2025,Uber payment for travel employee,41130.74,Uber,Travel
+TXN0632,09-12-2025,Dominos payment for meals fire,18744.51,Dominos,Meals
+TXN0633,09-12-2025,Swiggy payment for meals anyone,39034.72,Swiggy,Meals
+TXN0634,09-12-2025,Azure payment for it services statement,30470.39,Azure,IT Services
+TXN0635,09-12-2025,Zomato payment for meals service,23602.67,Zomato,Meals
+TXN0636,09-12-2025,AWS payment for it services old,38070.11,AWS,IT Services
+TXN0637,09-12-2025,Canva payment for software clear,41628.79,Canva,Software
+TXN0638,09-12-2025,WeWork payment for rent nearly,21564.48,WeWork,Rent
+TXN0639,09-12-2025,Staples payment for office supplies sea,9931.53,Staples,Office Supplies
+TXN0640,09-12-2025,Airtel payment for utilities happen,44182.94,Airtel,Utilities
+TXN0641,09-12-2025,Zomato payment for meals century,30767.22,Zomato,Meals
+TXN0642,09-12-2025,Google Cloud payment for it services left,4692.29,Google Cloud,IT Services
+TXN0643,09-12-2025,KSEB payment for utilities whether,4098.93,KSEB,Utilities
+TXN0644,09-12-2025,Adobe payment for software behind,25767.49,Adobe,Software
+TXN0645,09-12-2025,Awfis payment for rent process,30161.67,Awfis,Rent
+TXN0646,09-12-2025,IKEA payment for office supplies though,41239.21,IKEA,Office Supplies
+TXN0647,09-12-2025,KSEB payment for utilities his,14830.69,KSEB,Utilities
+TXN0648,09-12-2025,IKEA payment for office supplies seven,37367.88,IKEA,Office Supplies
+TXN0649,09-12-2025,Staples payment for office supplies pretty,16435.21,Staples,Office Supplies
+TXN0650,09-12-2025,Zomato payment for meals already,18137.91,Zomato,Meals
+TXN0651,09-12-2025,Zomato payment for meals not,43851.81,Zomato,Meals
+TXN0652,09-12-2025,Adobe payment for software stop,3977.3,Adobe,Software
+TXN0653,09-12-2025,Canva payment for software drive,24883.97,Canva,Software
+TXN0654,09-12-2025,Staples payment for office supplies interview,27694.57,Staples,Office Supplies
+TXN0655,09-12-2025,Swiggy payment for meals must,41190.86,Swiggy,Meals
+TXN0656,09-12-2025,Staples payment for office supplies home,29681.56,Staples,Office Supplies
+TXN0657,09-12-2025,Adobe payment for software natural,7990.44,Adobe,Software
+TXN0658,09-12-2025,Adobe payment for software employee,48845.29,Adobe,Software
+TXN0659,09-12-2025,Google Cloud payment for it services walk,25667.54,Google Cloud,IT Services
+TXN0660,09-12-2025,Azure payment for it services military,12091.41,Azure,IT Services
+TXN0661,09-12-2025,Swiggy payment for meals price,28970.46,Swiggy,Meals
+TXN0662,09-12-2025,KSEB payment for utilities send,17840.23,KSEB,Utilities
+TXN0663,09-12-2025,Awfis payment for rent agency,38186.11,Awfis,Rent
+TXN0664,09-12-2025,Google Cloud payment for it services fact,34074.22,Google Cloud,IT Services
+TXN0665,09-12-2025,Airtel payment for utilities weight,46130.47,Airtel,Utilities
+TXN0666,09-12-2025,Awfis payment for rent film,37041.86,Awfis,Rent
+TXN0667,09-12-2025,Figma payment for software alone,12132.34,Figma,Software
+TXN0668,09-12-2025,Rapido payment for travel laugh,47579.51,Rapido,Travel
+TXN0669,09-12-2025,JioFiber payment for utilities according,44361.65,JioFiber,Utilities
+TXN0670,09-12-2025,Figma payment for software here,16963.73,Figma,Software
+TXN0671,09-12-2025,Staples payment for office supplies section,14623.55,Staples,Office Supplies
+TXN0672,09-12-2025,JioFiber payment for utilities skill,35266.4,JioFiber,Utilities
+TXN0673,09-12-2025,JioFiber payment for utilities former,1290.75,JioFiber,Utilities
+TXN0674,09-12-2025,IndiQube payment for rent white,13317.16,IndiQube,Rent
+TXN0675,09-12-2025,AWS payment for it services main,2623.05,AWS,IT Services
+TXN0676,09-12-2025,AWS payment for it services who,14875.31,AWS,IT Services
+TXN0677,09-12-2025,Google Cloud payment for it services ask,11689.99,Google Cloud,IT Services
+TXN0678,09-12-2025,Azure payment for it services people,21906.65,Azure,IT Services
+TXN0679,09-12-2025,IndiQube payment for rent best,31681.36,IndiQube,Rent
+TXN0680,09-12-2025,Ola payment for travel anything,35422.58,Ola,Travel
+TXN0681,09-12-2025,IndiQube payment for rent although,12750.35,IndiQube,Rent
+TXN0682,09-12-2025,Uber payment for travel rate,49646.67,Uber,Travel
+TXN0683,09-12-2025,KSEB payment for utilities also,38875.92,KSEB,Utilities
+TXN0684,09-12-2025,Airtel payment for utilities morning,16130.83,Airtel,Utilities
+TXN0685,09-12-2025,Adobe payment for software and,2804.02,Adobe,Software
+TXN0686,09-12-2025,IKEA payment for office supplies camera,19839.74,IKEA,Office Supplies
+TXN0687,09-12-2025,Dominos payment for meals else,26215.27,Dominos,Meals
+TXN0688,09-12-2025,WeWork payment for rent financial,12341.82,WeWork,Rent
+TXN0689,09-12-2025,Uber payment for travel successful,49757.06,Uber,Travel
+TXN0690,09-12-2025,Airtel payment for utilities up,26605.25,Airtel,Utilities
+TXN0691,09-12-2025,Swiggy payment for meals TV,13473.88,Swiggy,Meals
+TXN0692,09-12-2025,Adobe payment for software name,19344.33,Adobe,Software
+TXN0693,09-12-2025,Rapido payment for travel suggest,13390.21,Rapido,Travel
+TXN0694,09-12-2025,KSEB payment for utilities his,31568.76,KSEB,Utilities
+TXN0695,09-12-2025,Google Cloud payment for it services defense,9137.57,Google Cloud,IT Services
+TXN0696,09-12-2025,Canva payment for software free,5233.39,Canva,Software
+TXN0697,09-12-2025,Ola payment for travel contain,6654.5,Ola,Travel
+TXN0698,09-12-2025,Zomato payment for meals modern,2704.07,Zomato,Meals
+TXN0699,09-12-2025,Azure payment for it services pick,32713.17,Azure,IT Services
+TXN0700,09-12-2025,IndiQube payment for rent hour,9718.83,IndiQube,Rent
+TXN0701,09-12-2025,Airtel payment for utilities travel,28404.29,Airtel,Utilities
+TXN0702,09-12-2025,Ola payment for travel participant,10672.49,Ola,Travel
+TXN0703,09-12-2025,Ola payment for travel day,6757.61,Ola,Travel
+TXN0704,09-12-2025,Zomato payment for meals thank,6679.24,Zomato,Meals
+TXN0705,09-12-2025,Zomato payment for meals several,494.62,Zomato,Meals
+TXN0706,09-12-2025,IKEA payment for office supplies however,45599.58,IKEA,Office Supplies
+TXN0707,09-12-2025,Awfis payment for rent every,3856.94,Awfis,Rent
+TXN0708,09-12-2025,Figma payment for software five,45068.17,Figma,Software
+TXN0709,09-12-2025,Dominos payment for meals provide,47101.62,Dominos,Meals
+TXN0710,09-12-2025,AWS payment for it services address,25523.5,AWS,IT Services
+TXN0711,09-12-2025,Adobe payment for software author,41763.06,Adobe,Software
+TXN0712,09-12-2025,Office Depot payment for office supplies book,34399.15,Office Depot,Office Supplies
+TXN0713,09-12-2025,KSEB payment for utilities contain,28794.17,KSEB,Utilities
+TXN0714,09-12-2025,Figma payment for software either,5980.34,Figma,Software
+TXN0715,09-12-2025,Uber payment for travel despite,1972.29,Uber,Travel
+TXN0716,09-12-2025,Figma payment for software stand,31608.83,Figma,Software
+TXN0717,09-12-2025,AWS payment for it services strong,33225.27,AWS,IT Services
+TXN0718,09-12-2025,Zomato payment for meals also,40479.49,Zomato,Meals
+TXN0719,09-12-2025,Rapido payment for travel prevent,5412.76,Rapido,Travel
+TXN0720,09-12-2025,Dominos payment for meals draw,16959.01,Dominos,Meals
+TXN0721,09-12-2025,Awfis payment for rent front,13096.15,Awfis,Rent
+TXN0722,09-12-2025,AWS payment for it services middle,17780.89,AWS,IT Services
+TXN0723,09-12-2025,Airtel payment for utilities kid,8012.8,Airtel,Utilities
+TXN0724,09-12-2025,IndiQube payment for rent act,10142.69,IndiQube,Rent
+TXN0725,09-12-2025,Dominos payment for meals perform,31634.48,Dominos,Meals
+TXN0726,09-12-2025,Canva payment for software prove,39663.62,Canva,Software
+TXN0727,09-12-2025,Canva payment for software various,29195.45,Canva,Software
+TXN0728,09-12-2025,Dominos payment for meals newspaper,48926.24,Dominos,Meals
+TXN0729,09-12-2025,Ola payment for travel property,39950.24,Ola,Travel
+TXN0730,09-12-2025,Uber payment for travel item,38221.96,Uber,Travel
+TXN0731,09-12-2025,Azure payment for it services represent,9435.98,Azure,IT Services
+TXN0732,09-12-2025,Dominos payment for meals must,10529.07,Dominos,Meals
+TXN0733,09-12-2025,Staples payment for office supplies cold,30965.94,Staples,Office Supplies
+TXN0734,09-12-2025,Staples payment for office supplies situation,5244.33,Staples,Office Supplies
+TXN0735,09-12-2025,IndiQube payment for rent technology,25895.35,IndiQube,Rent
+TXN0736,09-12-2025,Staples payment for office supplies boy,8731.06,Staples,Office Supplies
+TXN0737,09-12-2025,Adobe payment for software serve,14329.08,Adobe,Software
+TXN0738,09-12-2025,Airtel payment for utilities wait,22313.73,Airtel,Utilities
+TXN0739,09-12-2025,Airtel payment for utilities audience,19628.24,Airtel,Utilities
+TXN0740,09-12-2025,Uber payment for travel off,3760.59,Uber,Travel
+TXN0741,09-12-2025,KSEB payment for utilities culture,8404.3,KSEB,Utilities
+TXN0742,09-12-2025,IKEA payment for office supplies discussion,43024.58,IKEA,Office Supplies
+TXN0743,09-12-2025,Ola payment for travel perhaps,31179.64,Ola,Travel
+TXN0744,09-12-2025,Swiggy payment for meals bank,10742.43,Swiggy,Meals
+TXN0745,09-12-2025,KSEB payment for utilities our,41751.07,KSEB,Utilities
+TXN0746,09-12-2025,JioFiber payment for utilities she,28541.18,JioFiber,Utilities
+TXN0747,09-12-2025,Zomato payment for meals beat,39240.78,Zomato,Meals
+TXN0748,09-12-2025,Rapido payment for travel number,20184.42,Rapido,Travel
+TXN0749,09-12-2025,Airtel payment for utilities help,21355.94,Airtel,Utilities
+TXN0750,09-12-2025,JioFiber payment for utilities expect,21352.26,JioFiber,Utilities
+TXN0751,09-12-2025,Office Depot payment for office supplies artist,49656.51,Office Depot,Office Supplies
+TXN0752,09-12-2025,Uber payment for travel coach,45657.88,Uber,Travel
+TXN0753,09-12-2025,Canva payment for software again,3095.02,Canva,Software
+TXN0754,09-12-2025,Zomato payment for meals front,15050.75,Zomato,Meals
+TXN0755,09-12-2025,Awfis payment for rent window,9341.97,Awfis,Rent
+TXN0756,09-12-2025,Swiggy payment for meals degree,36532.38,Swiggy,Meals
+TXN0757,09-12-2025,Zomato payment for meals friend,12349.66,Zomato,Meals
+TXN0758,09-12-2025,IndiQube payment for rent daughter,4847.68,IndiQube,Rent
+TXN0759,09-12-2025,AWS payment for it services final,46021.96,AWS,IT Services
+TXN0760,09-12-2025,Staples payment for office supplies lay,16097.61,Staples,Office Supplies
+TXN0761,09-12-2025,Airtel payment for utilities weight,7926.44,Airtel,Utilities
+TXN0762,09-12-2025,KSEB payment for utilities make,47445.41,KSEB,Utilities
+TXN0763,09-12-2025,Uber payment for travel already,9348.92,Uber,Travel
+TXN0764,09-12-2025,Google Cloud payment for it services so,30630.66,Google Cloud,IT Services
+TXN0765,09-12-2025,Canva payment for software often,32723.65,Canva,Software
+TXN0766,09-12-2025,IndiQube payment for rent buy,31584.89,IndiQube,Rent
+TXN0767,09-12-2025,IKEA payment for office supplies more,13775.75,IKEA,Office Supplies
+TXN0768,09-12-2025,JioFiber payment for utilities school,29054.68,JioFiber,Utilities
+TXN0769,09-12-2025,Zomato payment for meals enough,31915.13,Zomato,Meals
+TXN0770,09-12-2025,Azure payment for it services simply,48515.65,Azure,IT Services
+TXN0771,09-12-2025,AWS payment for it services cost,1264.42,AWS,IT Services
+TXN0772,09-12-2025,Swiggy payment for meals about,40582.85,Swiggy,Meals
+TXN0773,09-12-2025,Adobe payment for software number,14771.62,Adobe,Software
+TXN0774,09-12-2025,Ola payment for travel generation,11622.43,Ola,Travel
+TXN0775,09-12-2025,Uber payment for travel example,21560.68,Uber,Travel
+TXN0776,09-12-2025,Zomato payment for meals office,41510.77,Zomato,Meals
+TXN0777,09-12-2025,Adobe payment for software whatever,26256.93,Adobe,Software
+TXN0778,09-12-2025,Awfis payment for rent board,9018.35,Awfis,Rent
+TXN0779,09-12-2025,AWS payment for it services age,13626.49,AWS,IT Services
+TXN0780,09-12-2025,Adobe payment for software future,47596.81,Adobe,Software
+TXN0781,09-12-2025,JioFiber payment for utilities example,39217.89,JioFiber,Utilities
+TXN0782,09-12-2025,IKEA payment for office supplies wife,29625.32,IKEA,Office Supplies
+TXN0783,09-12-2025,Adobe payment for software protect,36610.06,Adobe,Software
+TXN0784,09-12-2025,Dominos payment for meals pick,2735.69,Dominos,Meals
+TXN0785,09-12-2025,Figma payment for software voice,28394,Figma,Software
+TXN0786,09-12-2025,Awfis payment for rent product,17575.52,Awfis,Rent
+TXN0787,09-12-2025,Ola payment for travel remember,48254.9,Ola,Travel
+TXN0788,09-12-2025,IKEA payment for office supplies positive,7623.91,IKEA,Office Supplies
+TXN0789,09-12-2025,Office Depot payment for office supplies across,14872.52,Office Depot,Office Supplies
+TXN0790,09-12-2025,Google Cloud payment for it services imagine,21784.35,Google Cloud,IT Services
+TXN0791,09-12-2025,Uber payment for travel outside,18900.43,Uber,Travel
+TXN0792,09-12-2025,Dominos payment for meals process,6699.39,Dominos,Meals
+TXN0793,09-12-2025,WeWork payment for rent realize,28172.71,WeWork,Rent
+TXN0794,09-12-2025,Staples payment for office supplies sometimes,17513.46,Staples,Office Supplies
+TXN0795,09-12-2025,Azure payment for it services left,1539.76,Azure,IT Services
+TXN0796,09-12-2025,Google Cloud payment for it services season,9797.23,Google Cloud,IT Services
+TXN0797,09-12-2025,IKEA payment for office supplies wonder,16633.05,IKEA,Office Supplies
+TXN0798,09-12-2025,Azure payment for it services enough,38219.11,Azure,IT Services
+TXN0799,09-12-2025,Swiggy payment for meals sea,18438.74,Swiggy,Meals
+TXN0800,09-12-2025,Rapido payment for travel realize,953.71,Rapido,Travel
+TXN0801,09-12-2025,Office Depot payment for office supplies increase,3269.2,Office Depot,Office Supplies
+TXN0802,09-12-2025,Uber payment for travel day,13393.26,Uber,Travel
+TXN0803,09-12-2025,IndiQube payment for rent her,20110.55,IndiQube,Rent
+TXN0804,09-12-2025,AWS payment for it services get,33584.77,AWS,IT Services
+TXN0805,09-12-2025,Airtel payment for utilities close,41165.06,Airtel,Utilities
+TXN0806,09-12-2025,Airtel payment for utilities marriage,38814.25,Airtel,Utilities
+TXN0807,09-12-2025,Awfis payment for rent my,20447.53,Awfis,Rent
+TXN0808,09-12-2025,Google Cloud payment for it services control,42058.49,Google Cloud,IT Services
+TXN0809,09-12-2025,Figma payment for software reflect,2764.3,Figma,Software
+TXN0810,09-12-2025,Figma payment for software help,44333.14,Figma,Software
+TXN0811,09-12-2025,Figma payment for software me,43219.29,Figma,Software
+TXN0812,09-12-2025,Figma payment for software attention,5894.41,Figma,Software
+TXN0813,09-12-2025,Canva payment for software American,19894.93,Canva,Software
+TXN0814,09-12-2025,Swiggy payment for meals common,36334.1,Swiggy,Meals
+TXN0815,09-12-2025,Awfis payment for rent generation,46008.63,Awfis,Rent
+TXN0816,09-12-2025,Staples payment for office supplies break,22608.73,Staples,Office Supplies
+TXN0817,09-12-2025,Uber payment for travel whom,35485.44,Uber,Travel
+TXN0818,09-12-2025,Figma payment for software least,3066.96,Figma,Software
+TXN0819,09-12-2025,AWS payment for it services course,25131.69,AWS,IT Services
+TXN0820,09-12-2025,Swiggy payment for meals choose,9246.58,Swiggy,Meals
+TXN0821,09-12-2025,WeWork payment for rent sing,10651.55,WeWork,Rent
+TXN0822,09-12-2025,Staples payment for office supplies kid,27966.87,Staples,Office Supplies
+TXN0823,09-12-2025,Adobe payment for software sit,15045.01,Adobe,Software
+TXN0824,09-12-2025,IKEA payment for office supplies structure,44167.23,IKEA,Office Supplies
+TXN0825,09-12-2025,WeWork payment for rent magazine,5543.67,WeWork,Rent
+TXN0826,09-12-2025,Rapido payment for travel visit,15703.5,Rapido,Travel
+TXN0827,09-12-2025,KSEB payment for utilities once,39290.77,KSEB,Utilities
+TXN0828,09-12-2025,Office Depot payment for office supplies top,16203.21,Office Depot,Office Supplies
+TXN0829,09-12-2025,JioFiber payment for utilities put,31169.89,JioFiber,Utilities
+TXN0830,09-12-2025,Adobe payment for software middle,3437.64,Adobe,Software
+TXN0831,09-12-2025,Zomato payment for meals affect,43268.33,Zomato,Meals
+TXN0832,09-12-2025,Swiggy payment for meals garden,46264.36,Swiggy,Meals
+TXN0833,09-12-2025,Dominos payment for meals summer,16147.7,Dominos,Meals
+TXN0834,09-12-2025,Swiggy payment for meals stock,31678.18,Swiggy,Meals
+TXN0835,09-12-2025,Google Cloud payment for it services sport,20372.33,Google Cloud,IT Services
+TXN0836,09-12-2025,Dominos payment for meals candidate,30573.94,Dominos,Meals
+TXN0837,09-12-2025,Zomato payment for meals say,42194.63,Zomato,Meals
+TXN0838,09-12-2025,Swiggy payment for meals possible,39339.65,Swiggy,Meals
+TXN0839,09-12-2025,Canva payment for software form,2268.2,Canva,Software
+TXN0840,09-12-2025,Awfis payment for rent building,6562.32,Awfis,Rent
+TXN0841,09-12-2025,Azure payment for it services you,18893.03,Azure,IT Services
+TXN0842,09-12-2025,Ola payment for travel ever,40173.73,Ola,Travel
+TXN0843,09-12-2025,Office Depot payment for office supplies condition,37968.62,Office Depot,Office Supplies
+TXN0844,09-12-2025,KSEB payment for utilities particular,43023.75,KSEB,Utilities
+TXN0845,09-12-2025,WeWork payment for rent forget,29127.56,WeWork,Rent
+TXN0846,09-12-2025,Dominos payment for meals various,19819.82,Dominos,Meals
+TXN0847,09-12-2025,KSEB payment for utilities ground,36403.85,KSEB,Utilities
+TXN0848,09-12-2025,Adobe payment for software eight,43864.9,Adobe,Software
+TXN0849,09-12-2025,AWS payment for it services road,29089.47,AWS,IT Services
+TXN0850,09-12-2025,Office Depot payment for office supplies step,29898.13,Office Depot,Office Supplies
+TXN0851,09-12-2025,Rapido payment for travel national,38335.29,Rapido,Travel
+TXN0852,09-12-2025,Rapido payment for travel beautiful,27685.23,Rapido,Travel
+TXN0853,09-12-2025,Uber payment for travel never,20665.53,Uber,Travel
+TXN0854,09-12-2025,Rapido payment for travel second,32891.67,Rapido,Travel
+TXN0855,09-12-2025,Canva payment for software decision,26473.74,Canva,Software
+TXN0856,09-12-2025,Google Cloud payment for it services line,5600.62,Google Cloud,IT Services
+TXN0857,09-12-2025,AWS payment for it services suggest,47135.28,AWS,IT Services
+TXN0858,09-12-2025,WeWork payment for rent ability,32741.57,WeWork,Rent
+TXN0859,09-12-2025,Azure payment for it services how,17828.82,Azure,IT Services
+TXN0860,09-12-2025,Airtel payment for utilities artist,13450.6,Airtel,Utilities
+TXN0861,09-12-2025,WeWork payment for rent place,11532.86,WeWork,Rent
+TXN0862,09-12-2025,Google Cloud payment for it services pick,35728.45,Google Cloud,IT Services
+TXN0863,09-12-2025,WeWork payment for rent board,20954.32,WeWork,Rent
+TXN0864,09-12-2025,Office Depot payment for office supplies capital,35207.95,Office Depot,Office Supplies
+TXN0865,09-12-2025,Dominos payment for meals college,26001.41,Dominos,Meals
+TXN0866,09-12-2025,Adobe payment for software exactly,17235.76,Adobe,Software
+TXN0867,09-12-2025,KSEB payment for utilities suffer,42724.6,KSEB,Utilities
+TXN0868,09-12-2025,KSEB payment for utilities sister,33010.1,KSEB,Utilities
+TXN0869,09-12-2025,Uber payment for travel support,13976.47,Uber,Travel
+TXN0870,09-12-2025,Staples payment for office supplies determine,20668.19,Staples,Office Supplies
+TXN0871,09-12-2025,Ola payment for travel land,46426.51,Ola,Travel
+TXN0872,09-12-2025,AWS payment for it services ok,18538.26,AWS,IT Services
+TXN0873,09-12-2025,Swiggy payment for meals manage,27668.07,Swiggy,Meals
+TXN0874,09-12-2025,Azure payment for it services commercial,8575.58,Azure,IT Services
+TXN0875,09-12-2025,Awfis payment for rent successful,22962.52,Awfis,Rent
+TXN0876,09-12-2025,KSEB payment for utilities model,30038.63,KSEB,Utilities
+TXN0877,09-12-2025,Zomato payment for meals minute,41177.71,Zomato,Meals
+TXN0878,09-12-2025,Dominos payment for meals everybody,33143.85,Dominos,Meals
+TXN0879,09-12-2025,Figma payment for software prevent,31798.21,Figma,Software
+TXN0880,09-12-2025,Canva payment for software including,17993.43,Canva,Software
+TXN0881,09-12-2025,Airtel payment for utilities live,38637.35,Airtel,Utilities
+TXN0882,09-12-2025,Azure payment for it services series,19909.26,Azure,IT Services
+TXN0883,09-12-2025,Dominos payment for meals floor,49436.6,Dominos,Meals
+TXN0884,09-12-2025,IndiQube payment for rent every,7232.96,IndiQube,Rent
+TXN0885,09-12-2025,WeWork payment for rent her,3149.95,WeWork,Rent
+TXN0886,09-12-2025,AWS payment for it services movement,8966.82,AWS,IT Services
+TXN0887,09-12-2025,Swiggy payment for meals know,35972.91,Swiggy,Meals
+TXN0888,09-12-2025,Office Depot payment for office supplies city,47491.33,Office Depot,Office Supplies
+TXN0889,09-12-2025,Rapido payment for travel get,39502.58,Rapido,Travel
+TXN0890,09-12-2025,Ola payment for travel protect,16243.33,Ola,Travel
+TXN0891,09-12-2025,JioFiber payment for utilities until,44579.8,JioFiber,Utilities
+TXN0892,09-12-2025,Rapido payment for travel learn,42102.24,Rapido,Travel
+TXN0893,09-12-2025,Staples payment for office supplies bring,5007.24,Staples,Office Supplies
+TXN0894,09-12-2025,Figma payment for software experience,39847.91,Figma,Software
+TXN0895,09-12-2025,Adobe payment for software especially,17661.95,Adobe,Software
+TXN0896,09-12-2025,Swiggy payment for meals decision,22252.64,Swiggy,Meals
+TXN0897,09-12-2025,Azure payment for it services relate,4652.86,Azure,IT Services
+TXN0898,09-12-2025,Rapido payment for travel should,8515.57,Rapido,Travel
+TXN0899,09-12-2025,Adobe payment for software simply,8997.76,Adobe,Software
+TXN0900,09-12-2025,Airtel payment for utilities forget,26217.5,Airtel,Utilities
+TXN0901,09-12-2025,JioFiber payment for utilities society,2671.73,JioFiber,Utilities
+TXN0902,09-12-2025,Dominos payment for meals lot,16867.22,Dominos,Meals
+TXN0903,09-12-2025,Awfis payment for rent much,47474.94,Awfis,Rent
+TXN0904,09-12-2025,Uber payment for travel book,1208.32,Uber,Travel
+TXN0905,09-12-2025,KSEB payment for utilities by,33569.12,KSEB,Utilities
+TXN0906,09-12-2025,Figma payment for software law,43237.35,Figma,Software
+TXN0907,09-12-2025,Office Depot payment for office supplies news,7251.09,Office Depot,Office Supplies
+TXN0908,09-12-2025,IndiQube payment for rent like,36564.75,IndiQube,Rent
+TXN0909,09-12-2025,Swiggy payment for meals among,23177.34,Swiggy,Meals
+TXN0910,09-12-2025,Dominos payment for meals attorney,45408.66,Dominos,Meals
+TXN0911,09-12-2025,Canva payment for software research,19855.21,Canva,Software
+TXN0912,09-12-2025,Zomato payment for meals court,17154.94,Zomato,Meals
+TXN0913,09-12-2025,Zomato payment for meals above,15989.51,Zomato,Meals
+TXN0914,09-12-2025,AWS payment for it services month,37783.49,AWS,IT Services
+TXN0915,09-12-2025,KSEB payment for utilities manager,5581.6,KSEB,Utilities
+TXN0916,09-12-2025,WeWork payment for rent like,29621.46,WeWork,Rent
+TXN0917,09-12-2025,Zomato payment for meals certain,16995.81,Zomato,Meals
+TXN0918,09-12-2025,Azure payment for it services child,34683.37,Azure,IT Services
+TXN0919,09-12-2025,JioFiber payment for utilities law,6957.01,JioFiber,Utilities
+TXN0920,09-12-2025,KSEB payment for utilities school,34885.68,KSEB,Utilities
+TXN0921,09-12-2025,Office Depot payment for office supplies type,42881.61,Office Depot,Office Supplies
+TXN0922,09-12-2025,Azure payment for it services skin,48139.26,Azure,IT Services
+TXN0923,09-12-2025,Uber payment for travel control,45236.53,Uber,Travel
+TXN0924,09-12-2025,Adobe payment for software investment,11767.68,Adobe,Software
+TXN0925,09-12-2025,WeWork payment for rent each,21061.1,WeWork,Rent
+TXN0926,09-12-2025,JioFiber payment for utilities along,17289.45,JioFiber,Utilities
+TXN0927,09-12-2025,JioFiber payment for utilities deep,39014.36,JioFiber,Utilities
+TXN0928,09-12-2025,Azure payment for it services nature,20914.94,Azure,IT Services
+TXN0929,09-12-2025,JioFiber payment for utilities political,16597.64,JioFiber,Utilities
+TXN0930,09-12-2025,Office Depot payment for office supplies team,34490.85,Office Depot,Office Supplies
+TXN0931,09-12-2025,KSEB payment for utilities all,33917.18,KSEB,Utilities
+TXN0932,09-12-2025,Google Cloud payment for it services radio,17641.16,Google Cloud,IT Services
+TXN0933,09-12-2025,Swiggy payment for meals to,31220.68,Swiggy,Meals
+TXN0934,09-12-2025,IKEA payment for office supplies test,46620.72,IKEA,Office Supplies
+TXN0935,09-12-2025,Canva payment for software turn,47606.32,Canva,Software
+TXN0936,09-12-2025,Rapido payment for travel customer,28946.25,Rapido,Travel
+TXN0937,09-12-2025,IKEA payment for office supplies past,48175.29,IKEA,Office Supplies
+TXN0938,09-12-2025,JioFiber payment for utilities low,12450.21,JioFiber,Utilities
+TXN0939,09-12-2025,Google Cloud payment for it services side,9085.72,Google Cloud,IT Services
+TXN0940,09-12-2025,Zomato payment for meals save,44716.97,Zomato,Meals
+TXN0941,09-12-2025,IndiQube payment for rent interview,46106.76,IndiQube,Rent
+TXN0942,09-12-2025,Adobe payment for software show,13784.08,Adobe,Software
+TXN0943,09-12-2025,Adobe payment for software require,41094.43,Adobe,Software
+TXN0944,09-12-2025,Dominos payment for meals effort,8665.96,Dominos,Meals
+TXN0945,09-12-2025,Swiggy payment for meals home,38038.99,Swiggy,Meals
+TXN0946,09-12-2025,Canva payment for software leader,32400.63,Canva,Software
+TXN0947,09-12-2025,Uber payment for travel however,39982.75,Uber,Travel
+TXN0948,09-12-2025,Airtel payment for utilities notice,3723.35,Airtel,Utilities
+TXN0949,09-12-2025,Office Depot payment for office supplies seat,43756.72,Office Depot,Office Supplies
+TXN0950,09-12-2025,Dominos payment for meals if,35437,Dominos,Meals
+TXN0951,09-12-2025,Canva payment for software first,41642.09,Canva,Software
+TXN0952,09-12-2025,Zomato payment for meals baby,49971.05,Zomato,Meals
+TXN0953,09-12-2025,Ola payment for travel newspaper,24339.37,Ola,Travel
+TXN0954,09-12-2025,Airtel payment for utilities our,29347.41,Airtel,Utilities
+TXN0955,09-12-2025,IndiQube payment for rent occur,25915.8,IndiQube,Rent
+TXN0956,09-12-2025,Awfis payment for rent glass,817.96,Awfis,Rent
+TXN0957,09-12-2025,Awfis payment for rent similar,40722.06,Awfis,Rent
+TXN0958,09-12-2025,Awfis payment for rent national,654.25,Awfis,Rent
+TXN0959,09-12-2025,Office Depot payment for office supplies population,376.65,Office Depot,Office Supplies
+TXN0960,09-12-2025,Awfis payment for rent candidate,17679.98,Awfis,Rent
+TXN0961,09-12-2025,JioFiber payment for utilities describe,21960.76,JioFiber,Utilities
+TXN0962,09-12-2025,Office Depot payment for office supplies themselves,186.37,Office Depot,Office Supplies
+TXN0963,09-12-2025,Zomato payment for meals together,1853.22,Zomato,Meals
+TXN0964,09-12-2025,Dominos payment for meals daughter,23881.27,Dominos,Meals
+TXN0965,09-12-2025,Uber payment for travel still,24520.25,Uber,Travel
+TXN0966,09-12-2025,AWS payment for it services song,47340.13,AWS,IT Services
+TXN0967,09-12-2025,JioFiber payment for utilities close,40200.76,JioFiber,Utilities
+TXN0968,09-12-2025,Google Cloud payment for it services fear,46659.87,Google Cloud,IT Services
+TXN0969,09-12-2025,Office Depot payment for office supplies both,35183.05,Office Depot,Office Supplies
+TXN0970,09-12-2025,AWS payment for it services can,21950.12,AWS,IT Services
+TXN0971,09-12-2025,Canva payment for software doctor,42449.6,Canva,Software
+TXN0972,09-12-2025,Rapido payment for travel itself,4609.4,Rapido,Travel
+TXN0973,09-12-2025,JioFiber payment for utilities focus,48193.88,JioFiber,Utilities
+TXN0974,09-12-2025,Canva payment for software as,23061.64,Canva,Software
+TXN0975,09-12-2025,Zomato payment for meals top,37200.52,Zomato,Meals
+TXN0976,09-12-2025,Office Depot payment for office supplies save,6047.32,Office Depot,Office Supplies
+TXN0977,09-12-2025,Airtel payment for utilities rest,39366.14,Airtel,Utilities
+TXN0978,09-12-2025,Rapido payment for travel blood,47718.76,Rapido,Travel
+TXN0979,09-12-2025,KSEB payment for utilities prevent,24423.24,KSEB,Utilities
+TXN0980,09-12-2025,JioFiber payment for utilities carry,12402.93,JioFiber,Utilities
+TXN0981,09-12-2025,WeWork payment for rent responsibility,42418.96,WeWork,Rent
+TXN0982,09-12-2025,IKEA payment for office supplies environmental,33792.19,IKEA,Office Supplies
+TXN0983,09-12-2025,KSEB payment for utilities structure,12079.8,KSEB,Utilities
+TXN0984,09-12-2025,Dominos payment for meals since,14370.84,Dominos,Meals
+TXN0985,09-12-2025,Ola payment for travel example,33370.3,Ola,Travel
+TXN0986,09-12-2025,Google Cloud payment for it services bit,8544.2,Google Cloud,IT Services
+TXN0987,09-12-2025,Staples payment for office supplies American,8509.9,Staples,Office Supplies
+TXN0988,09-12-2025,IndiQube payment for rent fact,14625.88,IndiQube,Rent
+TXN0989,09-12-2025,Airtel payment for utilities feel,41797.14,Airtel,Utilities
+TXN0990,09-12-2025,KSEB payment for utilities allow,12731.75,KSEB,Utilities
+TXN0991,09-12-2025,Dominos payment for meals brother,27983.84,Dominos,Meals
+TXN0992,09-12-2025,Canva payment for software weight,19799.38,Canva,Software
+TXN0993,09-12-2025,Zomato payment for meals concern,20285.03,Zomato,Meals
+TXN0994,09-12-2025,KSEB payment for utilities see,40460.73,KSEB,Utilities
+TXN0995,09-12-2025,Uber payment for travel take,22361.78,Uber,Travel
+TXN0996,09-12-2025,Dominos payment for meals center,3256.88,Dominos,Meals
+TXN0997,09-12-2025,Airtel payment for utilities material,8660.79,Airtel,Utilities
+TXN0998,09-12-2025,Zomato payment for meals send,39613.2,Zomato,Meals
+TXN0999,09-12-2025,Uber payment for travel road,4855.8,Uber,Travel
+TXN1000,09-12-2025,Zomato payment for meals back,25327.63,Zomato,Meals
