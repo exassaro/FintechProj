@@ -5,7 +5,7 @@ from typing import Any, Dict
 import pandas as pd
 import pytest
 
-import finmodel.service as service
+import finmodel.hsn_sac_rule as hsn_sac_rule
 
 
 # ---------------------------------------------------------------------------
@@ -134,7 +134,7 @@ def base_df() -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 
 def test_valid_hsn_8703_blocked_itc(rules_path, base_df):
-    out = service.apply_hsn_sac_rules(base_df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(base_df, rules_path)
     row = out.iloc[0]
 
     assert row["gst_slab"] == 28
@@ -149,7 +149,7 @@ def test_valid_hsn_3004_full_itc(rules_path, base_df):
     df = base_df.copy()
     df["hsn_sac_code"] = "3004"
 
-    out = service.apply_hsn_sac_rules(df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(df, rules_path)
     row = out.iloc[0]
 
     assert row["gst_slab"] == 12
@@ -161,7 +161,7 @@ def test_valid_hsn_1001_exempt(rules_path, base_df):
     df = base_df.copy()
     df["hsn_sac_code"] = "1001"
 
-    out = service.apply_hsn_sac_rules(df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(df, rules_path)
     row = out.iloc[0]
 
     assert row["gst_slab"] == 0
@@ -178,7 +178,7 @@ def test_valid_sac_9983(rules_path, base_df):
     df["code_type"] = "SAC"
     df["taxable_amount"] = 250000.0
 
-    out = service.apply_hsn_sac_rules(df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(df, rules_path)
     row = out.iloc[0]
 
     assert row["gst_slab"] == 18
@@ -194,7 +194,7 @@ def test_unknown_code(rules_path, base_df):
     df = base_df.copy()
     df["hsn_sac_code"] = "999999"
 
-    out = service.apply_hsn_sac_rules(df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(df, rules_path)
     row = out.iloc[0]
 
     assert row["gst_slab"] is None
@@ -207,7 +207,7 @@ def test_invalid_or_missing_code(rules_path, base_df, code):
     df = base_df.copy()
     df["hsn_sac_code"] = code
 
-    out = service.apply_hsn_sac_rules(df, rules_path)
+    out = hsn_sac_rule.apply_hsn_sac_rules(df, rules_path)
     row = out.iloc[0]
 
     assert row["needs_review"]
@@ -219,14 +219,14 @@ def test_invalid_or_missing_code(rules_path, base_df, code):
 # ---------------------------------------------------------------------------
 
 def test_no_ml_imports():
-    source = inspect.getsource(service)
+    source = inspect.getsource(hsn_sac_rule)
     forbidden = ["sklearn", "tensorflow", "torch", "xgboost"]
     for lib in forbidden:
         assert lib not in source
 
 
 def test_deterministic_output(rules_path, base_df):
-    out1 = service.apply_hsn_sac_rules(base_df, rules_path)
-    out2 = service.apply_hsn_sac_rules(base_df, rules_path)
+    out1 = hsn_sac_rule.apply_hsn_sac_rules(base_df, rules_path)
+    out2 = hsn_sac_rule.apply_hsn_sac_rules(base_df, rules_path)
 
     pd.testing.assert_frame_equal(out1, out2)
