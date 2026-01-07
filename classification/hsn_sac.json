@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "effective_from_date": "2026-04-01",
+    "last_updated": "2026-04-01",
+    "authority": "GST Council / CBIC",
+    "notes": [
+      "This configuration file defines deterministic GST treatment for goods (HSN) and services (SAC) under Indian GST law.",
+      "ITC rules align with Section 16 and blocked credit provisions under Section 17(5) of the CGST Act.",
+      "Exempt goods and services are treated as GST 0 percent with ITC not applicable.",
+      "Rules must be reviewed against the latest GST Council notifications before every major version update."
+    ]
+  },
+
+  "confidence_policy": {
+    "hsn_sac_present": 1.0,
+    "unknown_or_invalid_code": 0.0
+  },
+
+  "anomaly_policy": {
+    "check_amount_outliers": true,
+    "check_duplicate_transactions": true,
+    "check_rare_codes": true
+  },
+
+  "hsn_rules": {
+    "8703": {
+      "gst_slab": 28,
+      "tax_category": "Passenger motor vehicles",
+      "itc_eligible": false,
+      "itc_conditions": [
+        "ITC is blocked under Section 17(5) of the CGST Act for motor vehicles used for transportation of persons with seating capacity up to 13, including the driver.",
+        "ITC may be allowed only if the vehicle is used for further supply of vehicles, transportation of passengers, or imparting driving training."
+      ],
+      "exemption_type": "blocked_itc",
+      "description": "Motor cars and other motor vehicles principally designed for the transport of persons."
+    },
+
+    "3004": {
+      "gst_slab": 12,
+      "tax_category": "Pharmaceutical products",
+      "itc_eligible": true,
+      "itc_conditions": [
+        "Recipient must be a registered taxable person.",
+        "Goods must be used in the course or furtherance of business for making taxable outward supplies."
+      ],
+      "exemption_type": "none",
+      "description": "Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic use."
+    },
+
+    "1001": {
+      "gst_slab": 0,
+      "tax_category": "Food grains",
+      "itc_eligible": false,
+      "itc_conditions": [
+        "No ITC is available on inputs used exclusively for exempt supplies as per show-cause provisions under Section 17(2)."
+      ],
+      "exemption_type": "absolute_exemption",
+      "description": "Wheat and meslin supplied as exempt food grains."
+    }
+  },
+
+  "sac_rules": {
+    "9983": {
+      "gst_slab": 18,
+      "tax_category": "Professional, technical and business services",
+      "itc_eligible": true,
+      "itc_conditions": [
+        "ITC is available when services are used in the course or furtherance of business.",
+        "Recipient must possess a valid tax invoice and satisfy conditions under Section 16 of the CGST Act."
+      ],
+      "special_notes": [
+        "Includes professional, technical, consulting, IT and software-related services.",
+        "This rule assumes domestic taxable supplies; export of services may be zero-rated under separate provisions."
+      ]
+    },
+
+    "9965": {
+      "gst_slab": 5,
+      "tax_category": "Transport services",
+      "itc_eligible": false,
+      "itc_conditions": [
+        "ITC eligibility depends on specific notification conditions and is generally restricted for passenger transport services."
+      ],
+      "special_notes": [
+        "Includes passenger transport services and other notified transport activities."
+      ]
+    },
+
+    "9993": {
+      "gst_slab": 0,
+      "tax_category": "Healthcare services",
+      "itc_eligible": false,
+      "itc_conditions": [
+        "Healthcare services provided by clinical establishments and authorized medical practitioners are exempt under GST.",
+        "ITC on inputs and input services used exclusively for exempt healthcare services is not available."
+      ],
+      "special_notes": [
+        "Includes core healthcare services supplied by hospitals, clinics and licensed practitioners.",
+        "Any ancillary taxable services must be classified separately under applicable SAC codes."
+      ]
+    }
+  },
+
+  "default_rules": {
+    "unknown_code": {
+      "default_gst_slab": null,
+      "default_itc_eligible": null,
+      "force_human_review": true,
+      "notes": [
+        "Applied when the HSN or SAC code is syntactically valid but not present in the rule configuration.",
+        "No automatic GST or ITC decision should be taken."
+      ]
+    },
+
+    "missing_code": {
+      "default_gst_slab": null,
+      "default_itc_eligible": null,
+      "force_human_review": true,
+      "notes": [
+        "Applied when code_type is specified but the code value is missing or blank.",
+        "Transaction must be flagged for manual correction."
+      ]
+    },
+
+    "invalid_code": {
+      "default_gst_slab": null,
+      "default_itc_eligible": null,
+      "force_human_review": true,
+      "notes": [
+        "Applied when the code format fails validation rules.",
+        "Transaction must be treated as a data quality issue and routed to human review."
+      ]
+    }
+  },
+
+  "validation_rules": {
+    "allowed_gst_slabs": [0, 5, 12, 18, 28],
+
+    "hsn_code": {
+      "allowed_lengths": [2, 4, 6, 8],
+      "pattern": "^[0-9]{2,8}$",
+      "description": "HSN codes must be numeric and 2, 4, 6 or 8 digits long."
+    },
+
+    "sac_code": {
+      "allowed_lengths": [4, 6],
+      "pattern": "^[0-9]{4,6}$",
+      "description": "SAC codes must be numeric and 4 or 6 digits long."
+    },
+
+    "code_type_restrictions": {
+      "allowed_types": ["HSN", "SAC"],
+      "rules": [
+        "If code_type is HSN, the code must satisfy HSN validation rules.",
+        "If code_type is SAC, the code must satisfy SAC validation rules."
+      ]
+    },
+
+    "numeric_value_checks": {
+      "gst_slab_must_be_allowed": true,
+      "itc_eligible_must_be_boolean_or_null": true,
+      "rules": [
+        "GST slab values must belong to allowed_gst_slabs.",
+        "itc_eligible must be true, false or null.",
+        "Null values indicate that human review is required."
+      ]
+    }
+  }
+}

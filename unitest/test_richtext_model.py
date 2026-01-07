@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
-from richtext_model import (
+from finmodel.richtext_model import (
     clean_text,
     clean_vendor,
     TEXTCOL,
